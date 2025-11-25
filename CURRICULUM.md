@@ -186,7 +186,9 @@ Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja st
 **Fond:** 3+0 sati sedmično
 
 ### Cilj i zadatak
-Zadatak nastave iz Sociologije ogleda se u cjelovitom upoznavanju studenata sa osnovnim karakteristikama društvenih teorija, procesima, strukturom i promjenama društva i socijalnih sistema. Cilj nastave je upoznati studente sa istraživanjima različitih oblasti socijalnog, političkog i kulturnog života. Posebno treba istaći dio nastavnog programa koji se odnosi na deontološki locirane teme, društveni karakter i značaj djelatnosti i profesije kojoj će studenti pripadati.
+Zadatak nastave iz Sociologije ogleda se u cjelovitom upoznavanju studenata sa osnovnim karakteristikama društvenih teorija, procesima, strukturom i promjenama društva i socijalnih sistema. Cilj nastave je upoznati studente sa istraživanjima različitih oblasti socijalnog, političkog i kulturnog života. Posebno treba istaći dio nastavnog programa koji se odnosi na deontološki locirane teme, društveni karakter i značaj djelatnosti i profesije kojoj će studenti pripadati. Upoznavanje sa deontoloskom strukturom zanimanja ima za cilj dobijanje velikog broja informacija do kojih ne bi mogli doci studiranjem naunih oblasti same struke. Nastavni programi iz Sociologije trebaju biti razliciti, sto je uslovijeno razlikama fakulteta. Nastavni planovi, shodno tome, takoder ne moraju biti isti.
+
+Nastavni plan realizuje se u I semestru za 3 +0 sati sedmino.
 
 ### Nastavni program predavanja
 **I. Teorija društva**
@@ -198,30 +200,129 @@ Zadatak nastave iz Sociologije ogleda se u cjelovitom upoznavanju studenata sa o
 6. Etnometodologija
 
 **II. Društvo**
-- **Društvo i sistem:** Određivanje društva (pluralizam teorija), Razlikovanje društvenog stanja od društvenog kretanja, Individua i kolektiv, Koncepti sistema, Dijalektičko i funkcionalističko shvatanje.
-- **Nastajanje i elementi društvenog sistema:** Mikro, makro i globalni društveni sistemi; Socijalno djelovanje i njegove vrste, rad i socijalna akcija; Društveni odnosi, podjela rada, podjela društvenih uloga; Društvene ustanove i organizacije; Struktura i dinamika (stratifikacija, nacija, klase, profesija, birokratija, elite, siromaštvo, obrazovanje, moć).
+** A) Drustvo i sistem;
+1. Odredivanje drustva (pluralizam teorija),
+2. Razlikovanje drustvenog stanja od drustvenog kretanja;
+3. Individua i kolektiv-sukob nominlista i realista,
+4. Koncepti sistema u nauci injihovo djelovanje u sociologiji;
+5. Dijalekticko i funkcionalisticko shvatanje drustvenog sistema,
+
+- **Nastajanje i elementi društvenog sistema:**
+1. Mikro, makro i globalni društveni sistemi;
+2. Socijalno djelovanje i njegove vrste, rad i socijalna akcija;
+3. Društveni odnosi, podjela rada, podjela društvenih uloga;
+4. Društvene ustanove i organizacije;
+5. Struktura i dinamika
+- a) socijalna stratificacija i socijalna pokretijivost;
+- b) nacija;
+- c) drustvene klase i socijalni slojevi;
+- d) profesija i inteligencija;
+- e) birokratija i tehnokratija;
+- f) elite;
+- g) siromastvo i socijalna stratifikacija,
+- h) obrazovanje, moé i nejednakost;
+- i) anatomija drustvene moci;
 
 **III. Globalni društveni sistemi i podsistemi**
-- Anatomija globalnog društva i sistema
-- **Prirodni sistem:** Ljudsko učešće u lancu prirode, Ekološka ravnoteža, Socijalna ekologija.
-- **Ljudska reprodukcija:** Biološko i društveno obnavljanje, Brak, Porodica, Stanovništvo.
-- **Ekonomija:** Roba, Tržište, Novac, Svojina, Kriza društva.
-- **Tehnologija:** Naučne revolucije, Organizacija rada, Tehnološka revolucija i kriza.
-- **Političko oblikovanje društva:** Politika, Politička moć, Država, Politički sistemi (autoritarni, demokratski), Akteri politike (stranke, grupe, pokreti), Nacionalni suverenitet.
-- **Kultura:** Čovjek i kultura, Kulturni modeli, Jezik, Institucije, Subkultura, Masovna kultura, Religija, Ideologija.
-- **Ličnost:** Struktura i razvoj, Socijalizacija i personalizacija, Identitet.
+
+A) Anatomija globalnog drustva i sistema;
+
+B) Prirodni sistem:
+1. Ljudsko ucesce u opstem lancu prirode;
+2. Prirodni i drustveni sistem;
+3. Ljudi kao potrosaci prirodnih materija;
+4. Ekoloska ravnoteza i kriza ljudske ekologije;
+5. Socijalna ekologija disciplina u konstituiranju;
+
+C) Ljudska reprodukcija;
+1. Biolosko i drustveno obnavijanje Ijudi;
+2. Brak;
+3. Porodica;
+4. Stanovnistvo;
+
+D) Ekonomija;
+1. Roba;
+2. Triste;
+3. Novac;
+4. Svojina;
+5. Dominacija ekonomije i kriza drustva;
+
+E) Tehnologija;
+1. Zanstvene revolucije i tehnoloske inovacije;
+2. Naucna organizacija rada;
+3. Rad u uslovima nauno-tehnoloske revolucije;
+4. Tehnoloska revolucija i kriza;
+
+F) Politicko oblikovanje drustva;
+1. Politika;
+2. Politicka moc;
+3. Anatomija drzave-aparati drzave, pravni poredak, legitimitet, funkcija drzave;
+4. Autoritarni politicki sisterni;
+5. Demokratski politiüki sistemi;
+6. Akteri politike:
+a) politicke stranke,
+b) interesne grupe,
+c) opozicioni (drustveni) pokreti,
+d) institucionalizirane politicke akcije,
+e) javno mijenje;
+t)politicka kultura;
+g) politicka sociologija;
+h) politicki pluralizam;
+7. Nacionalni suverenitet i kriza suvereniteta;
+8. Drzava-vojna sila i rat;
+
+G) Kultura;
+1. Covjek i kultura;
+2. Kultura i civilizacija;
+3. Kulturni modeli,
+a) vrijednosti;
+b) pravila i norme;
+c) jezik;
+d) institucije,
+d) pogied na svijet;
+e) komunikacije;
+4. Kultumi tipovi, subkultura, akulturacija i enkulturacija,
+5. Kulture potrebe, masovna kultura i kriza kulture;
+6. Religija,
+a) vjerovanje,
+b) sjetske religije,
+c) teizam,
+d) ateizam,
+e) konfesije,
+f) sekularizacija,
+g) smisao i domeni kritike religijskog zivota;
+7. Fiziologija, umjetnost i nauka;
+8. Ideologija;
+
+H) Licnost;
+1. Struktura i razvoj;
+2. Socijalizacija i personalizacija, uspon lionosti i kriza identiteta
+
 
 **IV. Savremeno društvo**
 1. Društveni konflikti u savremenom društvu
+**Vocavanje interesa i potreba, omoguéavanje drustvenih potreba, integracija i deintegracija u
+savremenom drustvu;
 2. Socijalni pokreti u savremenom društvu
+**Subjekti pokreta, programi pokreta, teznje za drustvenim promenama, ideologija, socijalni
+pokret i organizacija
 3. Ljudska prava i slobode
+**Dokumenti koji obavezuju savremena drustva, konvencije i pravni izvori u savremenim
+drustvima vezani za judska prava i slobode
 4. Civilno društvo
+**Hegel i Marx o civilnom drustvu, savremeni koncept o civilnom drustvu;
 5. Konstitucionalizam
-6. Tradicionalizam
+**Pojam i z a a j konstitucionalizma, konstitucionalizam u driavi i savremenom drustvu
+6. Tradicionalizam u savremenom drustvu
 7. Državnost, nacionalizam, demokratizacija
+**Drzavnost, suverenitet, preduslov demokracije, multinacionalne drzave i demokratizacija
 8. Moć u savremenom društvu
-9. Socijalno djelovanje
+**Uloga moci, viste moci, vlast i moc
+9. Socijalno djelovanje i njegove vrste, rad i socijalna akcija
 10. Savremeni odnosi države i društva
+
+4. NACIN PROVJERE ZNANJA
+Provera zanja vrsi se usmeno.
 
 ### Literatura
 1. Dr. Radoslav Ratković, Dr. Vladan Petković: *Osnovi nauke o društvu*, Beograd, 1994.
@@ -235,40 +336,74 @@ Zadatak nastave iz Sociologije ogleda se u cjelovitom upoznavanju studenata sa o
 
 ### Nastavni plan i program
 **I. Uvođenje u filozofiju**
-- Ime i pojam filozofije, Izvori i pobude, Filozofske discipline, Odnos sa mitologijom i religijom, Istorija filozofije.
+1. Ime i pojam filozofije,
+2. Izvori i pobude filozofskih istrazivanja,
+3. Filozofske discipline,
+4. Odnos sa mitologijom i religijom,
+5. Istorija filozofije i njen znacaj.
 
 **II. Osnovne postavke i određenja pojmova morala i etike**
-- Pojmovi morala i etike, Odnos morala i drugih oblika svijesti, Subjektivne postavke moralnosti (svijest, volja, vrlina, dužnost), Istoričnost i klasnost morala, Teorijska i normativna etika, Savremeni moral i metaetika.
+1. Odredjenje pojmova morala i etike,
+2. Odnos morala i drugih oblika svijesti, heteronomije i autonomija u moralu
+3. Osnovne subjektivne postavke moralnosti (svijest, saznanje, osjecanja, volja, vrlina, moralno sudenje, ispravnost, duinost, vrline)
+4. Istoričnost i klasnost morala,
+5. Teorijska i normativna etika,
+6. Savremeni moral i etika, metaetika i njezin znacaj
 
 **III. Pregled moralnih učenja u starim civilizacijama**
-- Bliski Istok, Indija, Kina, Japan.
+1. Moral u civilizacijama Bliskog Istoka (Egipat, Babilon, Mezopotamija, Judeja i Perzija)
+2. Moralno-eticka udenja u Indiji, Kini i Japanu
 
 **IV. Grčka filozofija**
-- **Dosokratovska:** Miletska škola, Elejska škola, Heraklit, Pitagora, Atomisti, Sofisti.
-- **Klasična helenska:** Sokrat, Platon, Aristotel.
-- **Helenističko-rimska:** Epikur, Stoici, Novoplatonizam.
+A) Dosokratovska filozofija
+1. Miletska filozofija prirode
+2. Elejska filozofija bivstva i kretanja
+3. Filozofija Heraklita Efejskog
+4. Pitagora i pitagorejci
+5. Leukipa i Demokrita atomisticki filozofija
+6. Antropoloski relativizam sofista
+
+B) Klasiona helenska filozofija
+1. Sokratovo filozofsko - eticko ucenje
+2. Platonova idealisticka filozofija
+3. Aristotelov filozofski sistem i klasifikacija zanja
+
+C) Helenisticko - rimska filozofija
+1. Osnovne karakteristike helenisticko-rimske filozofije
+2. Epikur i Epikurejstvo
+3. Stoici i stoicka filozofija
+4. Novoplatonizam
 
 **V. Hrišćanstvo i filozofija**
-- Karakteristike hrišćanske filozofije, Povezivanje filozofije i teologije.
+1. Osnovne karakteristike hriscanske filozofije
+2. Povezivanje filozofije i teologije
 
 **VI. Srednjovjekovna filozofija**
-- Patristika i sholastika, Vizantijski isihasti.
+1. Patristika i sholastika
+2. Bizantski isihasti
 
-**VII. Savremena filozofija**
-- **Novokantovska etika i aksiologija:** Šeler, Rikert, Koen, Hartman, Vindelband.
-- **Filozofija egzistencije:** Hajdeger, Jaspers, Sartr.
+A) Novokantovska etika i aksiologija
+Predstavnici novokantovske etike: Seler, Rikert, Cohen, Hartman, Windelband
 
-### Literatura
+B) Filozofija egzistencije
+1. Osnovne karakteristike filozofije egzistencije
+2. Glavni predstavnici: Martin Hadeger, Karl Jaspers, Jean Paul Sartre
+
+VSEZBE
+Viezbe ée se odvijati u vezi sa predavanjem, propisanom literaturom iu funkciji izrade
+seminarskog rada koji je obaveza svakog studenta.
+
+### Osnovna Literatura
 **Osnovna:**
 1. Dr Vinko Pavićević: *Osnovi etike*, BIGZ, Beograd, 1974.
 2. Dr Milenko A. Perović: *Istorija filozofije*, Novi Sad, 1997.
 3. Dr Ivan Kolarić: *Filozofija*, Užice, 1998.
 4. Dr Adam Ninković: *Filozofija*, Osijek, 1998.
 
-**Pomoćna:**
-1. Korać, Pavlović: *Istorija filozofije*, Beograd, 1991.
-2. Huseinov, Irlić: *Povijest etike*, Novi Sad, 1992.
-3. *Filozofski rječnik*, Zagreb, 1984.
+### POMONA LITERATURA
+1. Dr Veljko Korac, Dr. Branko Pavlovic: Istorija filozofije, Zavod za izdavanje udzbenika i nastavnih sredstava, Beograd, 1991.
+2. A.A.Huseinov-Gdin Irlié: Povijest etike, Knjizevna zajednica Novog Sada, Novi Sad, 1992
+3. Filozofski rjenik u redakciji Vladimira Filipoviéa, NZMH, Zagreb, 1984.
 
 ---
 
