@@ -106,26 +106,26 @@
 Osnovni cilj ovog predmeta je da se studenti upoznaju sa najznačajnijim teorijama socijalnog rada, njihovim međusobnim odnosima, širim teorijskim korijenima, prednostima i ograničenjima i odnosom između teorija prakse i obrazovanja u socijalnom radu.
 
 ### Oblici nastave
-Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja studenata, grupne rasprave, pisanje i odbrane seminara, korišćenjem video i drugog priručnog materijala, posjeta institucijama i naučnim skupovima, mentorskog rada, konsultacija sa profesorom i drugim učesnicima u nastavi, poštovanja poznatih stručnjak, istraživača i drugih profesora.
+Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja studenata, grupne rasprave, pisanje i odbrane seminara, korišćenjem video i drugog priručnog materijala, posjeta institucijama i naučnim skupovima, mentorskog rada, konsultacija sa profesorom i drugim učesnicima u nastavi, poštovanja poznatih stručnjaka, istraživača i drugih profesora.
 
 ### Ocenjivanje
 **Studenata:** Ocenjivanje studenata obavljaće se tokom semestra pri čemu će se naročito vrednovati: interaktivno učešće u nastavi, pisanje i odbrana seminara, uvodna izlaganja o dogovorenim temama, učešće u izradi individualnih ili grupnih projekata, dva testa znanja sredinom i krajem semestra.
 **Nastavnika:** Ocenjivanje nastavnika obavljaće se dva puta u toku semestra putem anonimnog upitnika.
 
 ### Program i sadržaji
-1. **Definisanje osnovnih pojmova:** Određivanje pojmova nauka, teorija, paradigma, model, metod, tehnika, vještina.
-2. **Opšte teorije društvenih i humanističkih nauka kao izvorišta teorija u socijalnom radu:** Uticaj medicine, sociološke teorije, psihološke teorije, pravo, socijalna patologija i socijalni rad.
+1. **Definisanje osnovnih pojmova:** Određivanje pojmova nauka, teorija, paradigma, modela, metoda, tehnika, vještina.
+2. **Opšte teorije društvenih i humanističkih nauka kao izvorišta teorija u socijalnom radu:** Uticaj medicine na teorije soc. rada, sociološke teorije, psihološke teorije, pravo, socijalna patologija i socijalni rad.
 3. **Šta sve utiče na nastanak i razvoj teorija?** Oblikovanje socijalnog rada, predmeta socijalnog rada, klijenata, socijalnog radnika.
 4. **Teorije o socijalnom radu i za socijalni rad:** Tipovi teorija, taksonomije i klasifikacije, odnosi teorija, eklekticizam, dvije vrste teorija.
 5. **Teorije i praksa socijalnog rada:** Praktične teorije i teorije za praksu. Kako teorijski misliti u praksi? Teorija socijalnog rada i struktura prakse. Uticaj prakse na razvoj teorija.
-6. **Psihodinamske perspektive:** Šire teorijske perspektive; Woods i Hollis: psihosocijalna terapija; Alternativne psihodinamske formulacije; Terapeutska sredina: primjena u zaštiti u ustanovama.
+6. **Psihodinamske perspektive:** Šire teorijske perspektive; Woods i Hollis: psihosocijalna terapija; Alternativne psihodinamske formulacije soc. rada; Terapeutska sredina: primjena u zaštiti u ustanovama.
 7. **Modeli krizne intervencije i usredsređenosti na zadatak:** Politika teorije krize; Krizna intervencija: Naomi Golan; Rad na slučaju usredsređen na zadatak: Reid i Epstein.
 8. **Kognitivno-bihejvioralne teorije:** Politika kognitivno-bihejvioralne teorije; Sheldon: kognitivno-bihejvioralna terapija; Grupne i bihejvioralne tehnike u zajednici; Rad u ustanovama za zbrinjavanje.
-9. **Sistemske i ekološke perspektive:** Politika sistemske teorije; Primjena u praksi: Pincus i Minahan; Ekološka sistemska teorija: Životni model; Stvaranje mreže i sistemi socijalne podrške; Atherton: sistemi u ustanovama.
+9. **Sistemske i ekološke perspektive:** Politika sistemske teorije; Primjena u praksi: Pincus i Minahan; Ekološka sistemska teorija: Životni model; Stvaranje mreže i sistemi socijalne podrške; Atherton: sistemi u ustanovama za zbrinjavanje.
 10. **Socijalnopsihološki i komunikacijski modeli:** Teorija uloge; Teorija komunikacije u socijalnom radu.
 11. **Humanističke i egzistencijalističke perspektive:** Politike humanističke i egzistencijalne teorije; Glassman i Kates: Humanistički grupni rad; Tompson: egzistencijalizam i socijalni rad.
 12. **Socijalni razvoj i razvoj zajednice:** Ideje i koncepcije socijalnog razvoja; Madgley: socijalni razvoj.
-13. **Radikalne i marksističke perspektive:** Politika radikalnog socijalnog rada; Mullaly: strukturalni socijalni rad; Fook: radikalni rad na slučaju; Radikalni rad u ustanovama.
+13. **Radikalne i marksističke perspektive:** Politika radikalnog socijalnog rada; Mullaly: strukturalni socijalni rad; Fook: radikalni rad na slučaju; Radikalni rad u ustanovama za zbrinjavanje.
 14. **Antidiskriminativne i antipotčinjavajuće perspektive:** Politika antidiskriminacijske teorije; Hanmer i Statham: rad usredsređen ka ženama; Dalrymple i Burke: antipotčinjavajuća praksa.
 15. **Osnaživanje i zastupanje:** Osnaživanje crnaca: Barbara Solomon; Mullender i Ward: samousmjeravajući grupni rad; Teorija naučene bespomoćnosti.
 16. **Aktuelne protivrječnosti i otvorena pitanja socijalnog rada:** Socijalni rad i dobrovoljne socijalne aktivnosti; Stigmatizirajuće uloge; Opšti polivalentni ili specijalizovani socijalni rad; Mogućnosti zasnivanja teorijske i metodološke osnove.
@@ -262,7 +262,7 @@ Opšte kompetencije: uvođenje studenata u područje pedagoške nauke, njenog od
 20. Teorije fizičkog vaspitanja
 21. Teorije radnog vaspitanja
 22. Teorije emocionalnog vaspitanja
-23. Pedagoške teorije i praksa
+23. Pedagoške teorije i vaspitno obrazovna praksa
 
 ### Literatura
 **Osnovna:**
@@ -439,8 +439,8 @@ Predmet obuhvata sticanje znanja, vještina i strategija rada sa pojedincem i po
 
 ### Sadržaj (III semestar)
 1. Socijalni rad u sistemu nauka. Modeli.
-2. Profesionalni odnos.
-3. Prvi kontakt, ugovor, tehnike ugovaranja.
+2. Profesionalni odnos u socijalnom radu sa pojedincem.
+3. Prvi kontakt sa klijentom, ugovor i tehnike ugovaranja.
 4. Faze: prijem, trijaža, evidencija, socijalna dijagnoza (procjena).
 5. Timski rad.
 6. Metode, tehnike i vještine - teorijski pristup. Vrijednosti i principi.
@@ -479,16 +479,16 @@ Predmet obuhvata sticanje znanja, vještina i strategija rada sa pojedincem i po
 **Profesor:** Branko Morait
 
 ### Sadržaj
-1. **Porodica i društvo:** Sociologija porodice, funkcije, struktura, istorijski razvoj, socijalizacija, patologija porodice.
-2. **Osnovni pojmovi porodičnog prava:** Predmet, metod, izvori, srodstvo.
-3. **Brak:** Pojam, uslovi za sklapanje, dejstva, prestanak (razvod).
-4. **Vanbračna zajednica.**
+1. **Porodica i društvo:** Sociologija porodice, funkcije, struktura, istorijski razvoj, socijalizacija, savremena porodica, patologija porodice.
+2. **Osnovni pojmovi porodičnog prava:** Predmet, obiljezja, metod, izvori, srodstvo.
+3. **Brak:** Pojam, uslovi za sklapanje, dejstva, forma braka, prestanak (razvod).
+4. **Vanbračna zajednica: pojam, obiljezja i pravna dejstva**
 5. **Odnosi roditelja i djece:** Roditeljsko pravo, utvrđivanje očinstva/materinstva.
 6. **Usvojenje.**
 7. **Hraniteljstvo i porodični smještaj.**
 8. **Starateljstvo:** Organ starateljstva, staratelj, vrste (nad maloljetnim, nad licem bez poslovne sposobnosti).
 9. **Zakonsko izdržavanje.**
-10. **Imovinsko porodični odnosi.**
+10. **Imovinsko porodično pravni odnosi.**
 11. **Porodični odnosi, starateljstvo i socijalni rad:** Intervencija organa starateljstva, zaštita ličnosti djeteta, povjeravanje djece, zaštita djece bez roditeljskog staranja.
 
 ### Literatura
@@ -811,7 +811,7 @@ Posjete zdravstvenim organizacijama (Dom zdravlja, Bolnica, Zavod).
 ### III. Upravni spor
 - Pojam, vrste, predmet, stranke.
 - Tužba.
-- Postupak i presuda.
+- Postupak i presuda, pravna sredstva, pravna zastita.
 
 ### Literatura
 1. Zoran R. Tomić: *Upravno pravo*.
@@ -858,7 +858,7 @@ Razumijevanje procesa u lokalnoj zajednici, primjena sistemskih perspektiva, ovl
 6. **Faze rada:** Upoznavanje, procjena, planiranje, akcija, evaluacija.
 7. Animiranje građana, pregovaranje, lobiranje.
 8. Fundraising (prikupljanje sredstava).
-9. Volonterski menadžment.
+9. Volonterski menadžment, vodjenje slucaja.
 
 ### Literatura
 1. Milosavljević, Brkić: *Socijalni rad u zajednici*.
