@@ -27,25 +27,55 @@
    - Predmet socijalne politike kao nauke
    - Socijalna politika kao praktična djelatnost
    - Socijalne potrebe, socijalna sigurnost i socijalni problemi - osnovni predmet socijalne politike
-   - Odnos s filozofijom i drugim naukama: (1) filozofija, (2) sociologija, (3) politikologija, (4) politička ekonomija, (5) pravna nauka, (6) socijalni rad
-   - Metode istraživanja socijalne politike: (1) Pozitivistička metodologija, (2) Kritičko-dijalektičke metode, (3) Metodološki strukturalizam i funkcionalizam, (4) Komparativne metode
+   - Odnos s filozofijom i drugim naukama:
+   1. filozofija,
+   2. sociologija,
+   3. politikologija,
+   4. politička ekonomija,
+   5. pravna nauka,
+   6. socijalni rad
+
+   - Metode istraživanja socijalne politike:
+   1. Pozitivistička metodologija,
+   2. Kritičko-dijalektičke metode,
+   3. Metodološki strukturalizam i funkcionalizam,
+   4. Komparativne metode
 
 3. **Zajednička suštinska obilježja socijalne politike**
    - Istorijska kategorija
    - Klasna kategorija
    - Civilizacijska kategorija
    - Univerzalna priroda socijalne politike
-   - Opšta načela socijalne politike: (1) Solidarnost, (2) Uzajamnost, (3) Humanizam, (4) Socijalna pravda
+   - Opšta načela socijalne politike:
+   1. Solidarnost,
+   2. Uzajamnost,
+   3. Humanizam,
+   4. Socijalna pravda
 
 4. **Osnovni faktori socijalne politike**
    - Egzogeni (međunarodni)
-   - Endogeni (karakteristike društvenog sistema): (1) ekonomski odnosi, procesi i sistem, (2) Demografski procesi, (3) Ideološki, (4) Politički, (5) Sistemi vrijednosti, (6) Etički principi socijalne politike, (7) Religija
+   - Endogeni (karakteristike društvenog sistema):
+     1. ekonomski odnosi, procesi i sistem
+     2. Demografski procesi
+     3. Ideološki
+     4. Politički
+     5. Sistemi vrijednosti
+     6. Etički principi socijalne politike
+     7. Religija
 
 5. **Socijalno-političke doktrine i teorije**
    - Pojam doktrine, teorije i nauke
-   - Liberalističke doktrine socijalne politike: (1) Spontantizam, (2) Harmonizam, (3) Solidarizam
+   - Liberalističke doktrine socijalne politike:
+     1. Spontantizam
+     2. Harmonizam
+     3. Solidarizam
+
    - Socijalno-političke doktrine radničkih i socijalnih pokreta
-   - Socijalno-politička doktrina države blagostanja: (1) Pojam države blagostanja, (2) Socijalna politika države blagostanja, (3) Kritike socijalne politike države blagostanja
+   - Socijalno-politička doktrina države blagostanja:
+     1. Pojam države blagostanja
+     2. Socijalna politika države blagostanja
+     3. Kritike socijalne politike države blagostanja
+
    - Neoliberalističke socijalno-političke teorije
    - Kritičke i radikalne koncepcije socijalne politike
 
@@ -61,8 +91,16 @@
    - Globalizacija i socijalna politika
 
 7. **Međunarodna saradnja i nosioci socijalne politike**
-   - Međunarodni univerzalni izvori socijalnih prava i sigurnosti čovjeka: (1) Univerzalna deklaracija o pravima čovjeka, (2) Konvencija o pravima djeteta, (3) Međunarodni pakt o socijalnim i kulturnim pravima
-   - Nosioci međunarodne socijalne politike: (1) OUN i njene specijalizovane agencije, (2) MOR, (3) Svjetska zdravstvena organizacija, (4) Međunarodni crveni krst
+   - Međunarodni univerzalni izvori socijalnih prava i sigurnosti čovjeka:
+     1. Univerzalna deklaracija o pravima čovjeka
+     2. Konvencija o pravima djeteta
+     3. Međunarodni pakt o socijalnim i kulturnim pravima
+
+   - Nosioci međunarodne socijalne politike:
+     1. OUN i njene specijalizovane agencije
+     2. MOR
+     3. Svjetska zdravstvena organizacija
+     4. Međunarodni crveni krst
 
 8. **Socijalni problemi - predmet socijalne politike**
    - Pojam i klasifikacije socijalnih problema
@@ -109,7 +147,9 @@ Osnovni cilj ovog predmeta je da se studenti upoznaju sa najznačajnijim teorija
 Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja studenata, grupne rasprave, pisanje i odbrane seminara, korišćenjem video i drugog priručnog materijala, posjeta institucijama i naučnim skupovima, mentorskog rada, konsultacija sa profesorom i drugim učesnicima u nastavi, poštovanja poznatih stručnjaka, istraživača i drugih profesora.
 
 ### Ocenjivanje
+
 **Studenata:** Ocenjivanje studenata obavljaće se tokom semestra pri čemu će se naročito vrednovati: interaktivno učešće u nastavi, pisanje i odbrana seminara, uvodna izlaganja o dogovorenim temama, učešće u izradi individualnih ili grupnih projekata, dva testa znanja sredinom i krajem semestra.
+
 **Nastavnika:** Ocenjivanje nastavnika obavljaće se dva puta u toku semestra putem anonimnog upitnika.
 
 ### Program i sadržaji
@@ -128,7 +168,7 @@ Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja st
 13. **Radikalne i marksističke perspektive:** Politika radikalnog socijalnog rada; Mullaly: strukturalni socijalni rad; Fook: radikalni rad na slučaju; Radikalni rad u ustanovama za zbrinjavanje.
 14. **Antidiskriminativne i antipotčinjavajuće perspektive:** Politika antidiskriminacijske teorije; Hanmer i Statham: rad usredsređen ka ženama; Dalrymple i Burke: antipotčinjavajuća praksa.
 15. **Osnaživanje i zastupanje:** Osnaživanje crnaca: Barbara Solomon; Mullender i Ward: samousmjeravajući grupni rad; Teorija naučene bespomoćnosti.
-16. **Aktuelne protivrječnosti i otvorena pitanja socijalnog rada:** Socijalni rad i dobrovoljne socijalne aktivnosti; Stigmatizirajuće uloge; Opšti polivalentni ili specijalizovani socijalni rad; Mogućnosti zasnivanja teorijske i metodološke osnove.
+16. **Aktuelne protivrječnosti i otvorena pitanja socijalnog rada:** Socijalni rad i dobrovoljne socijalne aktivnosti; Stigmatizirajuće uloge; Opšti polivalentni ili specijalizovani socijalni rad; Mogućnosti zasnivanja teorijske i metodološke osnove socijalnog rada.
 
 ### Obavezna literatura
 1. Malcolm Payne (2001): *Savremena teorija socijalnog rada*, Banja Luka, Filozofski fakultet
