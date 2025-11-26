@@ -412,7 +412,8 @@ seminarskog rada koji je obaveza svakog studenta.
 **Asistent:** Snježana Radinković
 
 ### Očekivani ishodi
-Opšte kompetencije: uvođenje studenata u područje pedagoške nauke, njenog odnosa sa filozofijom i drugim naukama, te ovladavanje osnovnim pojmovno-terminološkim sistemom. Specifične kompetencije: uvid u pedagošku nauku kao temeljnu za izučavanje ostalih pedagoških disciplina.
+Opšte kompetencije: uvođenje studenata u područje pedagoške nauke, njenog odnosa sa filozofijom i drugim naukama, te ovladavanje osnovnim pojmovno-terminološkim sistemom pedagogije.
+Specifine kompetencije: ostvarivanjem sadrzaja predmeta treba osigurati cjelovit i sistematican uvid u pedagosku nauku kao temeljnu za izucavanje ostalih pedagoskih disciplina u okviru studija.
 
 ### Tematska područja
 1. Pedagogija - nauka o vaspitanju
@@ -440,12 +441,30 @@ Opšte kompetencije: uvođenje studenata u područje pedagoške nauke, njenog od
 23. Pedagoške teorije i vaspitno obrazovna praksa
 
 ### Literatura
-**Osnovna:**
-1. Branković, D. (2001): *Pedagoške teorije*, Banja Luka
-2. Branković, D., Ilić, M. (2001): *Osnovi pedagogije*, Banja Luka
-3. Giesecke, H. (1993): *Uvod u pedagogiju*, Zagreb
-4. Gudjons, H. (1994): *Pedagogija - temeljna znanja*, Zagreb
-5. Potkonjak, N. (1996): *Pedagoški leksikon*, Beograd
+
+Osnovna literatura:
+1. Brankovié, D. (2001): Pedagoske teorije (Obrazovne snove i razvojni tokovi), Univerzitet
+Banja Luka
+2. Brankovic, D., Tic, M. (2001): Osnovi pedagogije, Comesgrafika, Banja Luka
+3. Gisecke, H. (1993): Uvod u pedagogiju, Educa, Zagreb
+4. Gudjons, H.(1994): Pedagogija-temeljna zanja, Educa, Zagreb
+5. Potkonjak, Hidr. (1996): Pedagoski leksikon, Zavod za udzbenike i nastavna sredstva Beograd.
+
+Sira litertura:
+1. Trnavac, N., Đ ordevic, J.(1998.): Pedagogija, Skolska knjiga, Zagreb
+2. Mandic, P -, Radovanovic, I., Mandic, D.(1998): Uvod u opstu i informaticku pedagogiju,
+Uciteljski fakultet, Zagreb
+3. Mialaret, G.(1989): Uvod u edukacijske nauke, Skolske novine, Zagreb
+4. Lenzen, D., (2002): Vodic za studij nauke o vaspitanju, Educa, Zagreb
+5. Konig, E., Zdeler, P.(1998): Teorije nauke o vaspitanju, Educa, Zagreb
+
+Izvodenje nastave:
+Nastava se izvodi u vidu fakultetskih predavanja, seminara i radionicke aktivnosti.
+
+Provjera znanja
+Proviera zanja visi se tokom nastanog procesa i na kraju semestra, a obuhvata: a) rezultat
+pismenog dijela ispita (test zanja), b) rezultat kontinuiranog pracenja aktivnosti studenata u
+nastavi, c) izrade i prezentacije seminarskog rada i d) zavrini usmeni ispit.
 
 ---
 
@@ -456,21 +475,69 @@ Opšte kompetencije: uvođenje studenata u područje pedagoške nauke, njenog od
 **Status:** Obavezan
 
 ### Ciljevi
-Upoznavanje studenata s osnovama prava, pojmovima prava, pravnih normi, pravnih akata; socijalnim pravom, socijalnim osiguranjem, penzijsko-invalidskim osiguranjem, zdravstvenim osiguranjem, socijalnom zaštitom, dječijom zaštitom, pravima boraca.
+Ciljevi izucavanja predmeta: upoznavanje studenataa s osnovama prava, pojmovima
+praya pravnih normi, pravnih akata, primjene i tumacenja prava; upoznavanje studenala
+sa socijalnim pravom pojiom i podjelom socijalnog osiguranja, lorpusom prava iz
+penzijsko-invalidskog osiguranja, zdravstvenog osiguranja i zdravstvene zastite.
+socijaine zastite, djectje zastite, prava boraca, porodica poginulih boraca, civilnih &tava
+rata injihovih porodica, te postupkom ostvarivanja prava, medunarodnim i unutranjim
+propisima koji regulisu oblast socijalnog prava.
 
 ### Sadržaji predmeta
 - Pojam prava, pravnih normi i pravnih akata
-- Pravni odnos (subjekti, objekti)
-- Primjena i tumačenje prava
-- Pojam i predmet socijalnog prava, socijalne prestacije
-- **Socijalna zaštita:** Pojam, organizacija, korisnici, prava, postupak
+- Pravni odos (pojam, elementi, injenice, subjekti i objekti prava)
+- Primjena i tumačenje prava, sistem prava
+- Pojam i predmet socijalnog prava, obiljezja prava iz socijalnog prava:
+Socijalne prestacije
+- Socijalna zastita
+** Pojam, uredjivanje i organizacija socijalne zastite
+** Korisnici socijalne zastite
 - **Dječija zaštita:** Pojam, uloga, prava, organizacija, finansiranje, postupak
-- **Penzijsko-invalidsko osiguranje:** Pojam, vrste, osigurana lica, staž. Rizici: Starost (starosna penzija), Invalidnost (invalidska penzija), Smrt (porodična penzija).
-- **Zdravstveno osiguranje i zaštita:** Pojam, prava, ostvarivanje.
-- **Prava boraca, vojnih invalida i porodica poginulih boraca:** Kategorije, prava, postupak.
-- **Zaštita civilnih žrtava rata**
-- **Konvencija UN o pravima djeteta**
-- **Evropska socijalna povelja**
+
+Penzijsko-invalidsko osiguranje
+• Pojam, vrste i organizacija penzijsko-invalidskog osiguranja
+• Osigurana lica
+Penzijski staz
+Rizici i prava u PIO
+o
+Starosna penzija
+Starost kao rizik u PIO
+Uslovi i visina starosne penzije
+Penzijsko-inavalidsko osiguranje
+• Invalidnost kao rizik u PIO
+• Invalidska penzija
+• Ustovi i visina invalidske perizije
+• Porodiona penzija
+• Uslovi za sticanje prava na porodina penziju
+o Visina porodine penzije
+Zdravstreno osiguranje i zdravstvena zastita
+o Visina porodine penzije
+Zdravstreno osiguranje i zdravst• Pojam, redivanje draystvenog osiguranja i zaravstvene
+zastite
+• Osiguranici Prava iz zdravstvenog osiguranja
+Ostvarivanje prava iz zdravstvenog osiguranja
+Organizacija i finansiranje zdravstvenog osiguranja
+Prava boraca, vojnih invalida i porodica poginulih boraca
+• Prava boraca i clanova porodica boraca
+• Prava vojnih in• Prava boraca i clanova porodica boraca
+• Prava vojnih invalida, clanova porodice poginulog borca i
+clano va porodice vojnih invalida
+• Kategorije i prava vojnih invalida
+• Koriscenje i prestanak prava
+Postupak za ostvanvanze prava
+Zastita civilnih irtava rata
+Pojam i kategorizacija civilnih irtava rata
+• Uredivanje zastite civilnih Ertava rata
+• Viste prava po osnovu zastite civilnih irtava rata
+• Postupak za ostvarivanje prava
+Konvencija UN o pravima djeteta
+• Zacaj i ciljevi konvencije
+• Prava djeteta
+• Obaveze prema Konvenciji
+Evropska socijalna povelja
+• Zaaaj ESP
+• Prava i nacela relevantna za uredivanje socijalnog prava
+• Nadzor. koektivne Zalbe i kolektivne tuzb
 
 ### Literatura
 **Obavezna:**
@@ -485,23 +552,172 @@ Upoznavanje studenata s osnovama prava, pojmovima prava, pravnih normi, pravnih 
 **Semestar:** I (2+1)
 
 ### Program
-1. Pojam, značaj i razvoj ljudskih prava i osnovnih sloboda.
-2. Značajniji istorijski, politički i pravni dokumenti (Evropska konvencija).
-3. Teorijske klasifikacije, ustavna koncepcija.
-4. Izvori međunarodnog prava: običaj, ugovori, sporazumi, odluke organizacija.
-5. Izvori prava u unutrašnjem pravu.
-6. Ostvarivanje međunarodnih obaveza.
-7. Ljudska prava i međunarodne organizacije: UN, MOR, UNESCO, Savjet Evrope, OEBS.
-8. Kontrola i nadzor nad ostvarivanjem ljudskih prava.
-9. Humanitarno pravo.
-10. Kažnjavanje za kršenje ljudskih prava (Međunarodni sudovi).
-11. Klasifikacija ljudskih prava u RS i BiH:
-    - **Lična prava:** život, jednakost, sloboda ličnosti, integritet, kretanje, pravičan postupak, dom, tajna pisma, vjeroispovijest.
-    - **Politička prava:** biračko, udruživanje, govor, okupljanje, štampa, peticije, državljanstvo.
-    - **Ekonomska i socijalna prava:** svojina, rad, štrajk, zdravlje, posebna zaštita invalida, majke i djece, školovanje.
-    - **Prava "treće generacije":** zdrava životna sredina, prava manjina.
-12. Ustavne dužnosti.
-13. Institucionalni mehanizmi zaštite (Ombudsman, Ustavni sud).
+
+1. Pojam, znaaj i razoj judskih prava i osnovnih sloboda covjeka i gradanina;
+2. Znacajniji istorijski, politicki i pravni dokumenti o ljudskim pravima i osnovnim
+slobodama;
+a) Dokumenti kojima su utemeljena ljudska prava i osnovne slobode;
+b) Savremeni medunarodnopravni dolumenti o ljudskim pravima i slobodama;
+c) Evropska konvencija o ljudskim pravima i osnovnim slobodama, s protokolima i
+medunarodnim instrumentima o judskim pravima i slobodama;
+3. Teorijske Idasifikacije, ustavna koncepcija standardi judskim prava i sloboda;
+4. Izvori medunarodnog prava o ljudskim pravima i slobodama:
+(1) obicaj
+(2) medunarodni ugovori-univerzalni, regionalni, specifieni
+(3) politicki sporazumi
+(4) odiuke medunarodnih organizacija i asocijacija
+(5) opsta pravna nacela prosvecenog naroda
+(6) jednostrani akti drzava.
+5. Izvori prava o ljudskim pravima i slobodama u unutranjem pravu;
+6. Ostvarivanje medunarodnih obaveza i normi o ljudskim pravima i stobodama:
+(1) Obaveza osiguranja pravnog lijeka (utuziva i neutuziva prava);
+(2) Obaveza trenutnog i postupnog uvodenja;
+(3) Preventivna djelatnost;
+(4) Staranje kulture judskih prava;
+(S) Vanredna stanja i privremena suspenzija (derogacija) nekin prava;
+(6) Duenost medunarodne saradnje;
+7. Ljudska prava i slobode i medunarodne organizacije:
+1) Univerzalne organizacije:
+(1) Ujedinjene nacije,
+(2) Medunarodna organizacija rada,
+(3) UNESCO,
+2) Regionalne organizacije: Vijece Europe: Sud, Europska zajednica (unija), Organizacija za
+evropsku sigurnost i saradnju (KESS), Americka konvencija (oaj), Africka (Bandzulska) povelja,
+3) Neviadine organizacije i ljudska prava i slobode.
+8. Kontrola i nadzor nad ostvarivanjem judskih prava i sloboda:
+(1) Mcdunarodni nadzor
+(2) Padnosenje izvjestaja,
+(3) Utvrdivanje krsenja,
+(4) Priroda odluka medunarodnih sudova i drugih organa,
+(5) Postupanje politickih tijela povodom masovnog krsenja judskih prava i sloboda.
+9. Osnovni izvori, nacela i mehanizmi primjene i zastite ljudskih prava i sloboda koje
+proiziaze iz humanitarnog prava.
+10. Kaznjavanje za krsenje ljudskih prava. Unutrasnja nadleznost. Medunarodni kazneni
+sudovi. Amnestije.
+11. Klasifilacija (podjela) ljudskih prava i sloboda covjeka i gradanina u ustavnopravnom
+sistemu Republike Srpska i BiH:
+
+1. Licna prava i slobode:
+(L) Pravo na Zivot,
+(2) Pravo na jednakost ljudi,
+(3) Sloboda covjeka,
+(4) Pravo linosti na zastitu dostojanstva i integriteta,
+(5) Sloboda kretanja i nastanjivanja,
+(6) Pravo covjeka u postupku pred nadleznim organima,
+(7) Nepovredivnost stana,
+(8) Sloboda misli i opredjeljenja,
+(9) Sloboda sajesti i veroispovijesti,
+(10) Nepovredivnost tajne pisma,
+(11) Pravo na zastitu podataka i linosti,
+(12) Sloboda izrazavanja nacionalne pripadnosti,
+(13) Sloboda nanosti i umjetnosti.
+
+2. Politicka prava i slobode:
+(1) Biracko pravo,
+(2) Sloboda udruzivanja
+(3) Sloboda govora i javnog istupanja,
+(4) Sloboda zbora i javnog okupljanja,
+(5) Sloboda stampe i drugih vidova javnog izrazavanja,
+(6) Pravo na predstavke, peticije i prijedloge,
+
+(7) Pravo na javnu kritiku,
+(8) Pravo na drzavijanstvo.
+2. Ekonomska i socijalna prava i slobode:
+(1) Pravo vlasnistva (viasnistva), poduzetnistva i trzista,
+(2) Pravo nasijedivanja,
+(3) Pravo na rad,
+(4) Pravo na ograniceno radno vrijeme,
+(5) Pravo na zastitu na radu,
+(6) Pravo na osiguranje,
+(7) Pravo na Strajk,
+(8) Pravo na zastitu zdravija,
+(9) Pravo invalida na posebnu zastitu,
+(10) Pravo na zastitu majke, djece i obitelji
+(11) Pravo na skolovanje.
+
+3. Nova i posebna prava i slobode (tzy. Prava "trece generacije"):
+(1) Pravo na zdravu Zivotnu sredinu (ekoloska prava)
+(2) Pravo u oblasti upravijanja,
+(3) Pravo i slobode etniökh grupa i nacionalnih manjina,
+(4) Pravo i slobode stranaca i osoba bez drzavljanstva,
+(5) Prava izbjeglica i prognanika.
+
+12. Ustavne duznosti i odgovornosti covjela i gradanina;
+13. Institucionalni mehanizmi ostvarivanja, zastite i ogranicenja ljudskih prava i osnovnih
+sloboda u Republici Srpskoj i BiH;
+14. Medunarodne i transnacionalne dimenzije zastite ljudskih prava i osnovnih sloboda;
+15. Osnovi krivicnopravne zastite sloboda i prava gradana u unutrasnjem pravu.
+
+I Osnovna literatura:
+1. V. Dimitrijevic, M. Paunovic: LJudska prava, udzbenik, Beogradski centar za ljudska
+prava, Beograd, 1997.
+2. N. Vucinic, Osnovi ljudskih prava i sloboda, udzbenik CID, Podgorica, 2001
+Il Depunska literatura:
+1. V. Dimitrijevic, M. Paunovié: Prava i slobode: Medunarodna i jugoslavenski standardi,
+Beograd 1995.
+2. V. Dimitrijevié: Izvori medunarodnog prava o ljudskim pravima, Jugoslovenska revija
+"Medunarodna politika", br. 1-3, 1995.
+3. V. Dimitrijevié: Neovisnost judskih prava, Izdavacka Knjizarnica Zorana Stojanoviéa, Sremski
+Karlovci-Novi Sad, 1993.
+4. V. Vasilijevié: Zloin i odgovornost, Beograd 1995.
+5. Gdin Perazic: Medunarodno ratno pravo, drugo izdanje, Beograd 1986.
+6. Gdin Terzió, Medunarodno ratno pravo, Beograd 1986.
+7. D. Gomien: Kratki vodi kroz Evropsku konvenciju o ljudskim pravima, Vijece Evrope,
+Strasbourg, 1995.
+8. D. Stojanovió: Osnovna prava covjeka, Nis, 1989.
+9. E. Bloch: Prirodno pravo i ljudsko dostojanstvo, Beograd, 1997.
+10. J. Donnelly: Medunarodna judska prava, Helsinski komitet za ljudska prava u BiH, Sarajevo,
+1999.
+11. JS Mill: O slobodi, Beograd 1988.
+12. K. Cavoski: Mogunost slobode i demokracije, Beograd, 1981.
+13. K. Obradovió, Humanitarno pravo, Beograd, 1997.
+14. M. Matulovic, Ljudska prava-Ovod u teorifu ludskih prava, Zagreb, 1996.
+15. M. Paunovic, Jurisprudencija Europskog suda za judska prava, Pravni fakultet, Beograd
+1993.
+16. M. Radojkovió: Rat i medunarodno pravo, drugo izdanje, Beograd, 1986.
+17. M. Vesovié: Zbirka dokumenata o judskim pravima i slobodama, JP "Sluzbeni list SRJ",
+Beograd, 1998.
+18. N. Vucinié: Medunarodno-pravni status i zastita temeljnih judskih prava i sloboda,
+Podgorica, 1994.
+19. P. Nikolié: Ustavno pravo, Beograd, 1994.
+20. P. Van Dijk, GJH van Hoof sa saradnicima: Teorija i praka Evropske konvencije o
+Ijudskim pravima, grupa izdavaca, trece izdanje, Sarajevo, "Muller", 2001.
+21. R. Kuzmanovié: Uporedni politicki sistemi, Banja Luka, 1991.
+22. R. Kuzmanovié: Ustavno pravo, Pravni fakultet Univerziteta u Banjoj Luci, Banja Luka,
+2000.
+23. R. Markovié: Ustavno pravo i politicke institucije, Beograd, 2002.
+24. S. Perovió: Prirodno pravo i sud, Pravni fakultet Univerziteta u Beogradu, Beograd, 1996.
+25. S. Perovic,: Ljudska prava i studijska nezavisnost, Pravni fakultet
+26. S. Sali, Z. Terzié: Medunarodni dokumenti o judskim pravima, Pravni centar i Fond
+ofvoreno drustvo BiH, Sarajevo, 1996.
+27. T. Buergenthalom: Medunarodna ljudska prava u sazetog obliku, Sarajevo-Budimpesta,
+28. T. Paine: Prava covjeka i drugi spisi, Zagreb, 1980.
+29. C. Sadikovié,: Evropsko pravo judskih prava, Fond otvorèno drustvo BiH, Sarajevo
+2001.
+30. H. Laski: Sloboda u modernoj drzavi, Beograd, 1985.
+31. Evropska konvencija o ljudskim pravima ("Sluzbeni glasnik BiH", broj 6 / 1999)
+32. Evropski i bosanskohercegovacki standardi o ljudskim pravima-prirunik, Specijalna
+publikacija pravnog projekta ICG, Sarajevo, 2000.
+33. Ljudska prava-pet decenija od svajanja Opste deklaacije o pravima covjeka,
+"Medunarodna politika" i dr. Beograd, 1998.
+34. Ljudska prava, Odabrani medunarodni dokumenti, slubeni tekstovi, drugo izdanje,
+Ministarstvo vanjskih poslova BiH, Nezavisni biro za humanitarna pitanja, Sarajevo,
+1999.
+35. Nacionalne manjine u medunarodnom i jugoslavenskom pravnom poretku, "Medunarodna
+politika" i dr., Zagreb, 1997.
+36. Nevladine organizacije i evropski standardi judskih prava, Centar za direktnu zastitu
+Ijudskih prava, Zagreb, 1998.
+•37. Opsti okvirni sporazum za mir u BiH, sa aneksima (11), Dokumenti Dejton-Pariz, Banja
+Luka, 1998.
+38. Prava covjeka, Zbornik dokumenata o pravima covjeka, "Prometej", Beograd 1991.
+39. Temelji moderne demokratije, Izbor deklaracija i povelja o judskim pravima (1215-
+1989), IRO "Nova knjiga", Beograd, 1989)
+40. Ustav BiH, Zbirka ustava BiH, Sarajevo, 1997
+41. Ustav Republike Sipska, "Glas Srpske", Banja Luka, 1998.
+42. Ustav Federacije BiH, Zbirka ustava Federacije BiH i kantona (Zupanija), Sarajevo 1997.
+43. Citanka Ljudskih prava, Centar za judska prava, Sarajevo, 2001.
+
+
 
 ### Literatura
 **Osnovna:**
@@ -515,7 +731,11 @@ Upoznavanje studenata s osnovama prava, pojmovima prava, pravnih normi, pravnih 
 **Fond:** 2+1 (I/II), 1+2 (III/IV)
 
 ### Cilj
-Ovladavanje osnovnom gramatikom, aktiviranje pasivnog znanja, korišćenje u datim situacijama.
+C i l j i z a d a c i :
+Cilj ovog kursa je pomoci studentima da dobro ovladaju osnovnom gramatikom engleskog jezika, omoguciti im
+pravilno da se njime koriste u datin
+a k t i v i r a j u s o j e pasivno znanje engleskog i
+s i t u a c i j a m a .
 
 ### Sadržaj (I i II godina)
 - **Gramatika:** Glagolska vremena (Present, Past, Future), Modali (can, must, should, have to), Kondicionali, Pasiv, Indirektni govor, Članovi, Komparacija.
@@ -558,22 +778,90 @@ Ovladavanje osnovnom gramatikom, aktiviranje pasivnog znanja, korišćenje u dat
 **Semestar:** III i IV (2+1)
 
 ### Program
-1. **Predmet i zadaci psihologije:** Metode, tehnike, pravci.
-2. **Organske osnove psihičkog života:** Nervni sistem (CNS, PNS, VNS), čula, žlijezde.
-3. **Psihički procesi:**
-   - Opažaji i osjeti.
-   - Pažnja i predstave.
-   - Učenje: vrste, faktori, transfer.
-   - Pamćenje i zaboravljanje.
-   - Mišljenje: vrste, stvaralačko mišljenje.
-   - Motivacija: potrebe, motivi, frustracije, konflikti.
-   - Emocije: vrste, razvoj, stres.
-4. **Razvojna psihologija:** Predmet, metode, činioci razvoja (nasljeđe, sredina).
-5. **Prenatalni period i prva godina:** Refleksi, motorni razvoj, govor.
-6. **Period djetinjstva:** Tjelesni, intelektualni (Piaget), emocionalni, socijalni razvoj.
-7. **Adolescencija:** Pubertet, promjene, identitet.
-8. **Odraslo doba:** Zrelost, psihički procesi.
-9. **Psihologija starenja:** Promjene, klimakterijum.
+
+1. Predmet i zadaci psihologije
+Sto proudava psihologija? Metode i tehnike psiholoskih istrazivanja. Teorijski i praktioni znacaj
+psihologije. Vazniji psiholoski pravci.
+2. Organske osnove psihickog zivota
+Nervni sistem, njihova uloga i sastav. Neuron i nervno uzbudenje. Glavni dijelovi nervog
+sistema. Receptori i efekti. Centralni nervni sister: mozak, mozdana kora i ledna mozdina.
+Periferni nervni sistem. Vegetativni nervni sistem, Zlijezdes untrainjim lucenjem i njihova
+funkcija. Uslovni refleksi. Mozak i svijest.
+3. Psihieki procesi
+3.1. Opazaji i osjeti. Nastanak osjeta, vrste drazi i cula. Pragovi drazi. Vrste osjeta. Opazaji,
+cjelovitost opazanja, zakonitosti opazanja-grupisanje drazi u celini. Motivacija i opazanje. Iluzije
+i obmane. 3.2. Paznja i predstave. Karakterstike paznje. Cinioci paznje i opseg paznje. Namjerna i
+nenamjerna panja. Fluktuacija paznje.
+3.3. Utenje-pojam i znacenje. Uloga ucenja u formiranju linosti. Vrste ucenja: jednostavno i
+slozeno ucenje (uenje uslovijavanjem, putem pokusaja i gresaka, ucenje uvidanjem). Verbalno i
+motorno udenje. Razlike izmedu ucenja kod Covjeka i Zivotinja. Faktori upjesnog ucenja.
+Krivulje i platoi u ueenju. Transfer u ucenju i vrste transfera.
+3.4. Paméenje - Pojam i nacaj paméenja. Povezanost ucenja i paméenja. Vrste paméenja:
+motorno i mentalno paméenje. Grupni i specifioni faktori paméenja. Patoloske promjene
+paméenja.
+3.5. Zadrzavanje i zaboravljanje-Zadrzavanje (retencija) i promiene tijekom zadrzavanja
+(pojednostavljenje sadriaja, racionalizacija sadrtaja i usuglasavanje)., Zadriavanje i
+zaboravljanje kao medusobno povezani procesi. Proces zaboravljanja, uzroci i neravnomjernost
+zaboravijanja. Ebinhausova krivulja zaboravijanja.
+3.5. Zadrzavanje i zaboravljanje-Zadrzavanje (retencija) i promiene tijekom zadrzavanja
+(pojednostavljenje sadriaja, racionalizacija sadrtaja i usuglasavanje)., Zadriavanje i
+zaboravljanje kao medusobno povezani procesi. Proces zaboravljanja, uzroci i neravnomjernost
+zaboravijanja. Ebinhausova krivulja zaboravijanja.
+3.7. Motivacija-pojam i vrste motiva. Hijerarhija motiva. Bioloske potrebe i motivi. Viste
+socijalnih motiva. Zadovoljenje i ometanje zadovoljenja motiva. Frustracije i konflikti. Posljedice
+frustracie.
+3.8. Emocije-Raznolikost Ijudskih osjecanja. Razoj i redoslijed javijanja emocija. Uloga
+naslijeda i ucenja u razoju emocija. Afekti, stresovi i traume kao postjedica intenzivnog
+(negativnog) emocionalnog dozivljavanja.
+4. Predmet, zadaci i osnovni pojmovi razyojne psihologije
+5. Metode i tehnike razvojne psihologije
+5.1. Metoda sisternatskog neeksperimentalnog istrazivanja
+5.2. Metoda eksperimentalnog istrazivanja, vrste eksperimenata
+5.3. Intervju, upitaik i test kao tehnike istrazivanja u razojnoj psihologiji
+6. Cinioci, zakonitosti i periodizacije psihofizickog razyoja
+6.1. Nastijede, sredina i aktivnost kao dinioci psihofizickog razvoja
+6.2. Zakonitosti psihofizickog razvoja
+6.3. Periodizacija psihofizickog razvoja
+7. Prenatalni period i prva godina Ziveta
+7.1. Prenatalni period
+7.2. Period novorodenceta
+7.3. Nedonosce
+7.4.Refleksi novorodendeta
+7.5. Dojence, tjelesni i intelektualni razvoj
+8. Razoj govora
+8.1. Jezik, govor i komunikacije
+8.2. Bioloske osnove govora
+8.3. Faze razoja govora (palingvisticka i lingvisticka faza-osnovna obiljezja)
+8.4. Funkcije govora
+8.5. Poremecaji govora
+9. Period djetinjstva
+9.1. Tjelesni razvoj
+9.2. Motorni razvoj
+9.3.Razvoj intelektualnih procesa
+9.4.Pamcenje 9.5. Misjenje (isticanje kauzalnog mistjenja)
+9.6. Emocionalni razvoi
+9.7. Socijalni razoj
+10. P r o m j e n e u adolescenciji i odgoine specificnost
+10.1. Adolescencia i promiene u adolescencil
+10.2. Predpubertet i pubertet
+10.3. Vaspitanje u adolescenciji (obiteljski odnosi, odgojni uvjeti, razvoini zadaci)
+10.4. Kraj puberteta i pocetak mladosti
+11. Odraslo doba
+11.1. Pojam i periodizacija odraslog doba
+11.2.Psihicki procesi odraslib (paméenje, inteligencija, motivacija, socijalizacija)
+11.3. Emocionalni razoj odraslih
+12. Psihologija starenja
+12.1. Sto je psihologija starenja
+12.2. Period starenja i psihike promjene (u ucenju, paméenju, culnoj osjetijivosti, inteligencija
+starenja)
+12.3. Klimaktorij i njegova obiljezja.
+
+Literatura za spremanje ispita
+1. Opsta psihologija-N. Rot, Zavod za izdavanje udzbenika RS, Beograd.
+2. Osnovi razvojne psihologije-B. Nesié-V. Radomirovic, Univerzitet u Kragujevcu, Jagodina,
+2000.
+3. Covjekov psihicki Zivot-l. Furlan, Skolska knjiga Zagreb, 1981.
+4. Psihologija djeteta-Z.Pijaze i Inhelder, Dobra vijest, Novi sad, 1990.
 
 ### Literatura
 1. N. Rot: *Opšta psihologija*, Beograd.
@@ -587,20 +875,65 @@ Ovladavanje osnovnom gramatikom, aktiviranje pasivnog znanja, korišćenje u dat
 **Semestar:** IV (2+1)
 
 ### Teme
-1. **Pojam ličnosti:** Definicije, problemi.
-2. **Struktura ličnosti:** Crte, temperament, karakter, sposobnosti, integritet, identitet.
-3. **Razvoj ličnosti:** Biološki i socijalni faktori, porodica, škola, kultura.
-4. **Zrela ličnost:** Kriterijumi zrelosti (emocionalna, socijalna, intelektualna), mentalno zdravlje.
-5. **Teorije ličnosti:**
-   - Frojdova psihoanalitička teorija.
-   - Rodžersova teorija.
-   - Olportova teorija.
-6. **Moral i ličnost:** Razvoj moralnosti (Pijaže, Kolberg), delinkventno ponašanje (teorije).
 
-### Literatura
-1. N. Rot: *Psihologija ličnosti*, Beograd.
-2. V. Gutović: *Ličnost i delinkvencija mladih*, Novi Sad, 2001.
-3. Kreč, Kračfild: *Elementi psihologije* (poglavlje Ličnost).
+1. Sto podrazumijevamo pod linoséu?
+1.1. Problemi kojima se bavi psihologija li ẽ nosti
+1.2. Definicija linosti (razliciti pristupi i njihova tumacenja)
+2. Struktura liénosti
+2.1. Linost kao organizacija osobina
+2.2. Broj i vrsta crta linosti
+2.3. Faktorska analiza crta linosti
+2.4. Temperament (razlicite tipologije i manifestacije svojstava temperamenta)
+2.5. Karakter i kljune determinante karakternih svojstava pojedinca
+2.6. Sposobnosti (opste i posebne sposobnosti kao sojstva linosti)
+2.7. Tjelesne osobine
+2.8. Tipovi i tipologije linosti
+2.9. Stavovi i sentimenti
+2.10. Integritet linosti
+2.11. Identitet linosti (Eriksonovo tumacenje identiteta)
+2.12. Frustracije, konflikti i odbrambeni mehanizmi linosti
+3. Razvoj licnosti
+3.1. Bioloski osnovi linosti
+3.2. Socijalni faktori razvoja linosti
+3.3. Uloga porodice
+3.4. Uloga Skole
+3.5. Uloga vrinjaka
+3.6. Kultura i liēnost
+3.7. Polozaji i uloge
+3.8. Uloga drustvenog sistema
+4. Zrela liénost - fenotipski, genotipski i razojni pristupi tumacenju zele liẽ nosti
+4.1. Zrelost linosti kao visedimenzionalan konstrukt
+4.2. Nezrela linost.
+4.2.1. Nezrelost konformistickog tipa
+4.2.2.Nezrelost osobenjaökog tipa
+4.2.3. Nezrelost nerazvijene osobnosti
+4.3. Zrelost i prilagodenost linosti
+4.4. Zrelost i mentalno zdravije
+4.5. Aspekti zelosti (emocionalna, karaktema, spolna, intelektualna, moraina, socijalna i
+bracna zelost)
+5. Granice licnosti
+5.1. Liénost kao otvoren sistem
+5.2. Liönost kao zatvoren sistem
+6 . P o k u s a j i o b j a s n j a v a n j a l i c n o s t i u c j e l i n i
+6.1. Freudova psihoanaliticka teorija
+6.2. Rogersom teorija lienosti
+6.3. Olport teorija linosti
+7. Moral i linost
+7.1. Razoj moralnosti, Pijazeova i Kolberg teorija
+7.2. Linosti sklone asocijalnom i delinkyentnom ponasanju
+7.3. Teorija razmatranja etiologije delinkvencite
+7.3.1.Bioloske teorije 7.3.2.Psiholoske teorije
+7.3.3.Psihopatoloske teorije
+7.3.4.Socioloske teorije
+7.3.5.Multifaktorski pristup
+7.4. Kognitivna i konativna sojstva linosti maloljetnih delinkvenata (rezultati empirijskih
+istrazivanja)
+
+Literatura za spremanje ispita:
+1. N. Rot: Psihologija linosti, Zavod za izdavanje udzbenika RS, Beograd
+2. V. Gutovic, Linost i delinkvencija mladih, Dnevnik, Novi Sad, 2001
+3. D. Kraë, R. Kraöfild, Elementi psihologije, Nauna knjiga, Beograd, 1978 (poglavlje-Liönost,
+str. 629-685).
 
 ---
 
@@ -610,7 +943,29 @@ Ovladavanje osnovnom gramatikom, aktiviranje pasivnog znanja, korišćenje u dat
 **Fond:** 3+2
 
 ### Kratak opis
-Predmet obuhvata sticanje znanja, vještina i strategija rada sa pojedincem i porodicom. Fokus na pitanja: Šta socijalni radnik radi? (sadržaj, standardi) i Kako radi? (metode, tehnike). Obuhvata teorijske koncepte i obuku za primjenu terapijskih modela.
+
+Socijaini rad s pojedincem je osnovni metodoloski kompleks socijanog rada, pored rada sa
+grupom i rada u zajednici. Predmet obuhvata sticanje zanja, vestina, tehnike i strategije rada
+sa pojedincem i porodicom. Osnovni sadrzaj usmeren je ka rajasjenju dva najvainija
+pitanja:
+- Sta socijani radnik radi? - odnosno kakav je sadriaj i koji su standardi
+njegovin interencija u radus pojedincem i prodicom
+- Kako socijaini radnik radi? - odnosno koje metode, tehnike i vestine koristi
+u procesu s o j u h intervencija
+Sadrzaj programa je usmeren ka deskripciji, analizi i oceni primenijivosti osnovin metoda
+znacajnih za praksu socijainog rada s pojedincem i porodicom.
+Razvojna tendencija savremene metodologije socijalnog rada ogleda se
+" pokusaju
+grupisanja metoda i tehnika slinog teorijskog okvira u vece
+celine (modele) aija je
+karakteristika elastioni terapijski koncept, operativna metodologija i dostupni ciljevi za
+realizaciju. Osnovna rednost navedene tendencie je sto objedinjuje i povezuje teoriju i praksu i
+stimulise razoj profesije socijalnog rada.
+Program, pored teorijskih koncepata, o b u h v a t a obuku studenatu za primenu razlieitin
+terapijskih modela koji se mogu koristiti u socijalnom radu a skladu sa standardima socijalne
+terapije i rehabilitacie. To socijainim radnicima daje sansu da, uz odgovarajuéu edukaciju,
+postizu pozitivne promene u suom profesionalnom identitetu, afraciji, strunoj komunikaciji i
+razvoju.
 
 ### Sadržaj (III semestar)
 1. Socijalni rad u sistemu nauka. Modeli.
@@ -627,15 +982,95 @@ Predmet obuhvata sticanje znanja, vještina i strategija rada sa pojedincem i po
 12. Vještine: empatija, posredovanje.
 13. Nalaz i mišljenje socijalnog radnika.
 
+### Ishodi ucenja
+Cili nastave i praktionog rada je da studenti ovladaju osnovnim metodskim pristupima i
+praktionim zanjima i vestinama iz oblasti socijalnog rada s pojedincem. Studenti ce steci
+sledeca znanja: Holisticki pristup ljudskim potrebama i problemima.
+Uspostavijanje i odravanje profesionalnog odnosa sa klijentima.
+Procenu potreba, rizika, snaga i resursa pojedinca i porodice.
+Planiranje interevencija, usluga i mera
+Sposobnost primene razlicitih metoda socijalnog rada.
+- Sposobnost za timski rad
+Vodenje dokumenatcije u radus pojedincem i porodicom.
+Studentice ovladati sledecim vestinama:
+Vestine pripreme za rad s klijentom.
+- Uspostavijanje i oravanje pomagackog odnosa
+- Vestina interjuisanja (slusanje, pracenje neverbalnog govora, postavijanje pitanja).
+Vestina pisanja nalaza i mistjenja socijalnog radnika.
+Ovako koncipirana nastava amogucava studentima savremeno profesionalno obrazovanje
+prema standardima struke Sto treba da omoguéi odgovarajuce promene u pogledu njihove
+kompetencije da se aktivno bave terapijskim radom. Zeljeni ishodi udenja mogu se postici
+pristupom koji u najvecoj meri angaZuje studente u praktionim aktivnostima koje su
+neposredno povezane sa njihovim kompetencijama uz aktivnu participaciju i osposobljavanje
+za samostalan profesionaini rad.
+
+
+
 ### Sadržaj (IV semestar)
-1. Teorijska zasnovanost terapijskih pristupa.
-2. **Bihejvioralna terapija:** Teorija, tehnike, primjena.
-3. **Kognitivna terapija.**
-4. **Geštalt terapija.**
-5. **Pristup usmjeren na krizu:** Fenomenologija krize, intervencija.
-6. **Porodična terapija:** Sistemska porodična terapija.
-7. **Socio-humanistički modeli:** Karakteristike.
-8. **Savjetovanje:** Oblici, nedirektivni pristup (Rogers), faze procesa, dinamika promjene.
+
+1. Socijalni rad u sistemu nauka o coveku.
+Pregied shvatanja i definisanja socijalnog rada s pojedincem. Modeli
+socijalnog rada s pojedincem;
+2. Profesionaini odnos u socijainom radu s pojedincem.
+3, Prvi kontakt sa klijentom. Ugovor i tehnike ugovaranja;
+4. Faze socijalnog rada s pojedincem (pripremno organizaciona faza, uloga
+trijazera, osnovna evidencija i dokumentacija, faza socijalne dijagnoze
+(procene)
+5. Timski rad u socijalnom radu. Forme timskog rada, proces timskog rada,
+faze timskog rada, timski zakljucak.
+6. Metode, tehnike i vestine socijalnog rada - teorijski pristup.
+Vrednosti i principi socijainog rada.
+7. Test znanja
+8. Metoda interjua u socijalrom radu s pojedincem.
+Klasifikacija interjua, opste preporuka za vodenje i primenu interjua: (prvi
+praktican rad - nedirettivni intervju):
+Metoda upitnika u socijalnom radu s pojedincem.
+Oblikovanje upitnika, statisticka obrada rezultata i interpretacija.
+(drugi praktican rad - samostalna izrada upitnika):
+9. Studija slucaja. Teorjski deo. Prikaz slucaja, analiza i interpretacija (treci
+praktican rad - samostalni prikaz „slucaja");
+10. Eko mapa. Sociometrijska metoda.
+Primena u socialnom radu s pojedincem (cetvrti praktican rad -
+samostaina izrada eko-mape):
+11. Skale za procenu porodicnih odnosa i funkcionisanja.
+12. Vestine socijalnog rada: interpersonalne vestine
+- empatijska vestina. Primena u socijainom radu s pojedincem.
+13. Interpersonalno posredovanje u socijalnom radu;
+14. Nalaz i mistjenje socijalnog radnika. Forma, interpretacija i primena. (peti
+praktican rad - samostalna izrada nalaza socijalnog radnika);
+15. Test zanja - usmeni ispit.
+
+Teme predavanja po nedeljama (ukupno 15 nedelja) - IV semestar
+
+1. Teorijska zasnovanost razlicitih terapijskih pristupa i modela. Struni standardi
+socijalnog rada i mogucost za primenu razlicitih terapijskih modela;
+2. Bihejviorana terapija - teorijske osnove, metode i tehnike terapije. Primena u
+socijalnom radu (prvi praktican rad - samostalni prikaz razlicitih metoda
+binejvioraine terapije);
+3. Kognitivna terapija - teorijske osnove, tehnike kognitivne terapie. Moguenost primene
+4. Gestalt terapija - teorijske osnove (teorija linosti), terapijski pristupi, moguónost
+primene u socijainom radu;
+5. Pristup usmeren na krizu -teorijske osnove, fenomenologija krize - tehnike terapije.
+Moguénost primene u socijalnom radu (drugi praktican rad - samostaini prikaz
+neke krizne situacije i tehnike terapije):
+6. Provera znanja - test zanja;
+7. Porodicna terapija - teorijske osnove
+- razliciti pristupi porodicnoi terapiji;
+8. Sistemska porodina terapija - teoriske osnove,
+razvoj i mogucnosti primene u praksisocijalnog rada:
+9. Socio-humanisticki modeli terapije - teorijske osnove; karakteristike socio-
+humanistickog pristupa;
+10. Metod savetovanja u socijalnom radu - teorijske csnove, oblici savetovanja;
+11. Nedirektivni pristup (klijentom usmerena terapija) -
+teorijske osnove, terapijski odnos, ogranicenja (treci praktican rad - prikaz
+nedirektivnog postupka na konkretnom slucaju):
+12. Stupnjevi terapijskog procesa - pocetak rada, razvijanje odnosa,
+zavrsetak savetovania:
+13. Dinamika promene u procesu savetovanja
+(cetvrti praktican rad - prikaz efekata promena u procesu savetovanja):
+14. Nedirektivno savetovanje u praksi socijainog rada (peti praktican rad- prikaz
+moguénosti primene nedirektivnog savetovania u razlicitim podrujima socijalnog rada.
+15. Zavrini ispit - test znanja i usmeni ispit.
 
 ### Literatura
 **Osnovna:**
@@ -654,23 +1089,143 @@ Predmet obuhvata sticanje znanja, vještina i strategija rada sa pojedincem i po
 **Profesor:** Branko Morait
 
 ### Sadržaj
-1. **Porodica i društvo:** Sociologija porodice, funkcije, struktura, istorijski razvoj, socijalizacija, savremena porodica, patologija porodice.
-2. **Osnovni pojmovi porodičnog prava:** Predmet, obiljezja, metod, izvori, srodstvo.
-3. **Brak:** Pojam, uslovi za sklapanje, dejstva, forma braka, prestanak (razvod).
-4. **Vanbračna zajednica: pojam, obiljezja i pravna dejstva**
-5. **Odnosi roditelja i djece:** Roditeljsko pravo, utvrđivanje očinstva/materinstva.
+1. **Porodica i društvo:**
+Pojam, predmet i metoda sociologije porodice
+Mjesto sociologije porodice u sistemu drustvenih nanka i odnos sociologije porodice i pravne
+nauke
+Definicija, funkcije i struktura porodice
+Porodica i srodstvo
+Porodica i domacinstvo
+Istorijski razvoj porodice
+Mjesto porodice u drustvenoj strukturi
+Socijalizacija licnosti
+Socijalizacija porodice
+Savremena porodica
+Patologija porodice (dezorganizacija porodine grupe, nesredene, razrivene i nesretne porodice,
+nepotpune porodice, vanbraina porodica, razod i zakonska alimentacija, uticaj dezorganizacije
+porodice na dezorganizaciju liénosti, suzbijanje porocione patologije-akcije, dileme i mjere)
+
+1. Sociologija porodice, funkcije, struktura, istorijski razvoj, socijalizacija, savremena porodica, patologija porodice.
+
+2. **Osnovni pojmovi porodičnog prava:**
+Pojam porodinog prava
+Predmet i metode porodicnog prava
+Mjesto porodinog prava u sistemu prava
+Obiljezja porodino pravnih odnosa
+Podjela porodinog prava (Bra ă no, Roditeljsko, Starateljsko, Statusno, Imovinsko)
+Izvori porodinog prava
+Istorijat porodinog prava
+Pravni zaaj, vrste i racunanje srodstva
+
+3. **Brak:**
+Pojam braka i branog prava
+Pravna priroda i obiljezja braka
+Nacela branog prava
+Uslovi za slapanje i punovaznost braka
+Brane smetnje i brane zabrane
+Forma braka
+Liena i imovinska dejstva braka
+Prestanak nevazedeg braka (apsolutno i relativno nistavni brakovi)
+Prestanak punovaznog braka
+Razvod braka (brakorazvodni uzroci, sudski postupak u branim sporovima i nuspojave
+prestanka braka)
+
+4. **Vanbračna zajednica:
+Pojam obiljezja i pravna dejstva
+
+5. **Odnosi roditelja i djece:**
+Roditeljski odnos, roditeljsko pravo i odgovornost roditelja,
+Pojam i sadrzaj roditeljskog prava
+Vrsenje roditeljskog prava
+Ogranicenje visenja roditeljskog prava (nadzor organa starateljstva)
+Oduzimanje roditeljskog prava
+Prestanak roditeljskog prava
+Produzene ruditeljskog prava
+BRACNA DJECA (Uturdivanje branosti, osporavanje bracosti, djeca zaceta vestackim
+nacinom) Vanbrana djeca (Utvrdivanje vanbranog odinstva i materinstva), postupak u sporovima
+utvrdivanja i osporavanja ocinstva i materinstva
+USVOJENJE (Pojam i vrste, ucinak i prestanak usvojenja)
+
 6. **Usvojenje.**
+
 7. **Hraniteljstvo i porodični smještaj.**
-8. **Starateljstvo:** Organ starateljstva, staratelj, vrste (nad maloljetnim, nad licem bez poslovne sposobnosti).
+
+8. **Starateljstvo:**
+Pojam, vrste i ciljevi
+Organ staratelistva
+Saradnici organa starateljstva
+Staralac (Postavijanje i vrste staraoca, duenosti staraoca, dusnosti staraoca, odgovornost i prava
+staraoca, prestanak starateljstva
+Starateljstvo nad maloljetnim licem (raziozi za stavljanje pod starateljstvo, duznosti staraoca i
+prestanak starateljstva) Starateljstvo nad osobama kojima je oduzeta postovna sposobnost (uzroci za oduzimanje
+poslovne sposobnosti i postupals, dunosti staraoca i prestanak starateljstva)
+Starateljstvo za posebne stucajeve
+
 9. **Zakonsko izdržavanje.**
+Pojam, pravna priroda i karakteristike zakonske obligacije izrazavanja i pretpostavke za
+izdrzavanje Izdravanje djece, roditelja i drugih srodnika
+Izdrzavanje izmedu branih drugova
+Izdrzavanje izmedu vanbranih drugova
+
 10. **Imovinsko porodično pravni odnosi.**
-11. **Porodični odnosi, starateljstvo i socijalni rad:** Intervencija organa starateljstva, zaštita ličnosti djeteta, povjeravanje djece, zaštita djece bez roditeljskog staranja.
+Imovinski odnosi branih drugova
+Zakonski imovinski reim (Posebna imovina, Zajednicka imovina branih drugova)
+Imovinska odgovernost branih drugova prema treéim osobama
+Ugovorno imovinski rezim
+Imovinski odnosi vanbranih drugova
+
+11. **Porodični odnosi, starateljstvo i socijalni rad:**
+Lnacaj i funkcije driavne intervencije u porodicnim odnosima
+Starateljstvo i socijalna zastita porodice
+Staratelistvo i metodi socijane i pravne zastite djece u porodionim odnosima
+Funkcije organa starateljstva:
+- pravna i socijalno zastitna funkcija starateljstva
+- Funkcija vlasti i funkeija javne sluzbe
+- Funkcija upravijanja pravima i funkcija prosudivanja
+Nadleznosti i funkcije organa starateljstva u uporednom pravu
+Organizacija sluzbe starateljstva
+Intervencija organa starateljstva u porodiõnim odnosima roditelja i djece
+Nadzor organa starateljstva nad vrsenjem roditeljskog prava
+Zastita liénosti djeteta:
+a) oduzimanjem djeteta od roditelja
+b) upucivanjem djeteta u vaspitnu ustanovu
+c) oduzimanjem roditeljskog prava
+Preventivna zastita interesa djeteta u razodu braka roditelja
+a) ogranicavanje razvoda braka
+b) mirenje branih supruznika
+Poveravanje djece na cuvanje i vaspitanje
+a) povjeravanje djece u sluaju razdvojenog divota roditelja
+b) povjeravanje djece u slucaju razvoda braka roditelja
+c) povjeravanje djeteta treem licu
+d) zastita roditeljskog prava prilikom povjeravanja djece
+Zastita djece bez roditeljskog staranja
+a) usvajenje
+b) starateljstvo
+c) porodicni smjestaj
+Djelatnosti organa starateljstva u porodionopravnoj zastiti djece
+Pravna zastita i socijalni rad:
+a) Zastita djece iz porodica sa poremeéenim funkcijama
+b) Zastita djece iz porodica poremecene strukture
+c) Zastita djece bez roditeljskog staranja
+Obiljezja pravnih akata organa starateljstva
+a) Pravni karakter odluke o povjeravanju djece na Juvanje i vaspitanje
+b) Pravni karakter odluka kojima se rjesavaju nesporazumi roditelja u vrsenju roditeljskog prava
+c) Pravna priroda akta o usvojenju
+d) Pravna obiljezja rjesenja o porodinom smjestaju
+e) Pravne karakteristike akata u oblasti starateljske zastite
 
 ### Literatura
-1. Marko Mladenović: *Porodično pravo u SFRJ*, Beograd, 1991.
-2. Ilija Babić: *Porodično pravo*, Beograd, 1999.
-3. Mirjana Obretković: *Porodični odnosi, starateljstvo i socijalni rad*, Beograd, 1987.
-4. Marko Mladenović: *Uvod u sociologiju porodice*, Zagreb, 1988.
+
+1. Prof. Dr Marko Mladenovié: "Porodino pravo u SFRJ", Sluzbeni list SFRJ, Beograd, 1991.
+2. Mirjana Papo: "Porodino pravo u SR BiH", Sarajevo, 1983.
+3. Prof. Dr Ilija Babié, "Porodino pravo", Slubeni glasnik, Beograd, 1999.
+4. Prof. Dr. Mirjana Obretkovié: "Porodini odnosi, starateljstvo i socijalni rad", "Nau ă na
+knjiga", Beograd, 1987.
+5. Prof. Dr Marko Mladenovié: "Uvod u sociologiju porodice", Informator, Zagreb, 1988
+6. Radanje moderne porodice, priredila Andelka llic, Zavod za udzbenike i nastavna sredstva,
+Beograd, 1988.
+7. "Nasilje nad djecom", Redaktor Milosay Milosavljevic, Fakultet politickih nauka, Beograd,
+1998.
 
 ---
 
@@ -679,22 +1234,78 @@ Predmet obuhvata sticanje znanja, vještina i strategija rada sa pojedincem i po
 **Predavači:** Prof. Sven Hessle, Lilja Cajvert, Prof. Eva Nyberg (gostujući profesori / modul)
 
 ### Cilj kursa
-Sticanje vještina identifikacije, analize i djelovanja u radu sa porodicom i djecom.
-Aspekti koji se obrađuju:
+
+Cilj kursa je da studenti steknu jestinu da: identifikuju, opisuju, analiziraju,
+vrijednuja kao i djeluju u porodici i u radu s djecom,
+situacijom i problemom.
+
+Siri cili
+Siri cili je dati pregled zanja o socijalnom radu sa djecom i porodicom. Surha kursa
+je i da se da zanje o nacionalnom i internacionalnom istrivanju u ovom podruju, da
+se produbi i razvije zanje o ivotnoj situaciji djece i porodice, posebno djece.
+
+S t i j e d e c i a s p e k t i s e o b r a d y j u :
+
 - **Aspekt problema:** Procesi u porodici kao socijalni problemi.
+radi se o procesima u kojima se odnosi u porodici posmatraju ili shvataju kao socijalni
+problemi i zbog toga postaju predmet ulaganja ili predmet
+obnove ili predmet
+djelovanja (na njima se djeluje, oni postaju predmet, na taj nain se u njih ulaze). To
+ima jednu deskriptivnu stranu, to n a i da postoji jedna opisujuca kategorija koja se
+upotrebljava u socijalnom radu sa djecom i porodicom; koja daje socijalnim odnosima
+jedan specifican kriterij, specifin pripadnost problema i ljudina status klijenta. Radi
+se i o tome koje informative puteve i izvore socijalni radnik koristi kao i to kako in
+shvaca i sto bira, zbog onoga sto je relevanto u datoj situaciji. Dalje je bitna
+analiticka strana, ovdje se radi o onim teorijama, perspektivama i modelima koje
+objasjavaju i koje se upotrebljavaju da bi se otkrio uzrok socijalne problematike
+porodice i da bi se dobilo (razvilo) razumijevanje za zivotne uslove djece i porodice.
+
 - **Aspekt djelovanja:** Metode rada, mikro nivo, susret sa porodicom.
+koji ima u fokusu radne metode socijalnog rada sa djecom i porodicom u centru. Radi
+se o sustetu sa porodicom, pronalazenju resenja, resursima koji se koriste, pravnoj
+regulativi koja se upotrebljava itd. Ovi aspekti se koncentriu na mikro nivou
+socijalnog rada; socialni radnik se zauzima u svom direktnom radu sa porodicom. U
+ovom oviru se moraju diskutovati metode na jednom generalnom nivou. Tad se
+djelimino radi o onim teorijama koje su orjentisane prema djelovanju i metodama
+koje su se razvile iz tih teorija, a djelimino se radi i o razlicitim skolama i
+generalizaciji modela koji su konkretao povezani sa radom sa porodicom.
+
 - **Aspekt organizacije:** Organizacioni kontekst, resursi.
+organizacijoniaspekt posmatra socijalni rad sa djecom i njihovom porodicom u
+njihovom organizacionom kontekstu. Organizacije se starju pomoéu raspodjele
+resursa, upravijajuéim ili vodiecim funkcijama primjenom pravila itd.; moguónost i
+ogranicenja u okviru kojih svaki socijalni radnik moze djelovati. Ovdje se proudava kako formaina tako i strukturalna grada organizacije, kao i njihova neformalna i
+latenina strana. Primjer za druga vaina pitanja koja se obraduju je isto tako: kakva je i
+kalvi su odosi izmedu organizacija, kontakt sa okruzenjem i kako se vrijednuje rezultat.
+
 - **Etički aspekt:** Moralna i vrijednosna strana.
+eticki aspekt obraduje moralnu i vrijednosnu
+stranu socijalnog rada sa djecom i
+porodicom. Dalje je centralno i bino pitanje kako proucavati
+vrijednovanja koja su otvorena u komunikaciji izmedu socijalnog radnika i klijenta,
+kao i vrijednovanja koja su sadrzana u toj cijeloj situaciji.
+
+Ova cetir naveda aspekta se prije svega moraju posmatrati sa intergrativnog aspekta,
+kao delovi koj su integriran u jednu celinu, ali isto tako se mogu posmatrati
+samostalno u edukacii. Kurs dalje ima serhu da pripremi studente za praksu u trecoj
+godini studija.
+
+G l a v r i s a d r z a j
+U formi predavanja prenosi se zanje o Zivotnoj situaciji djece i porodice. Dalje se
+daje zanje o istrazivanjima u ovom podruéju. Daje se pregled razlicitih porodino-
+terapeutskih skola ili pravaca, kao i pogledi i metodi u okviru istih. Isto tako se
+abraduje i razjanjava pitanje o upotrebljivosti metoda u porodionim terapijama u
+socijalnom rada.
+Postije zavrsenog kursa se ocekuje da studenti imaju osnovno zanje o pojmovima iz
+sisterske teorije i o podrujima moguée upotrebe porodine terapije. Teziste ce biti
+na psibo-socialnom radu sa razlicitim porodicnim problemima. Prakione viezbe sa
+igrom uloga ce se kombinovati sa aspekta razlicitih perspektiva i teoretskih primjena.
 
 ### Sadržaj nastave
-- Teorija komunikacije.
-- Porodični genogram.
-- Psihodinamske perspektive.
-- Sistemska teorija.
-- Porodična terapija (različite škole).
-- Djeca u hraniteljskoj porodici.
-- Djeca i trauma / rat.
-- Praktične vježbe (igra uloga, studija slučaja).
+Nastava se sastoji od predavanja, studiranja knjiga, seminara i pismenih zadataka.
+Predavanja ée se kombinirati sa grupnim jezbama, igrom uloga sa simulirajuéom
+porodicom itd. Nastava ce se formirati na taj naõin da se da moguénost kako
+teoretskom tako i praktionom razoju zanja.
 
 ---
 
@@ -702,6 +1313,39 @@ Aspekti koji se obrađuju:
 **Profesor:** Dr Zlatko Bundalo
 **Godina:** II
 **Semestar:** III (2+1)
+
+Kratak opis predmeta:
+Pojam i primjena informatike i informacionih tehnologija. Informacioni sistemi i njihova
+primjena. Elementi i organizacija informacionog sistema. Osnovi organizacije digitalnog
+raunara. Programska oprema (softver) raunara. Osnovni elementi racunara. Informacione
+tehnologije i komunikacije. Primjena informatike i informacionih tehnologija u socijalnom radu
+Primjena raunarskih tehnologija u pomodi hendikepiranim osobama. Operativni sistem
+WINDOWS - osnovni pojmovi, rads datotekama. MS WORD-osnovni pojmovi, odredivanje
+margina, format papira, ispis, kopiranje i iscjecanje teksta, numeracija stranica, fusnote, hederi i
+futeri, ubacivanje simbola i slika u tekst, formatiranje teksta, rad s tablicama. Program za crtanje -
+MS DRAWING. Program za tabline proraune - MS EXCEL-kreiranje datoteke, definiranje
+celija, koristenje formula i izrada grafikona. Internet-servisi Interneta. Web i elektronicka posta.
+Koristenje INTERNET EXPLORER-a. Program za izradu prezentacija POWER POINT. Softveri
+za koristenje u socijalnom radu. Primjeri sistema za pomoé hendikepiranim osobama.
+
+Nastavni ciljevi:
+Sticanje zanja iz oblasti raunarstva, informatike, informacionih sistema i informacionih
+tehnologija. To su zanja o moguénostima, prednostima i nacinima njihove praktione primjene u
+razlititim podruéjima i posebno u oblasti socijalnog rada. Sticanje zanja o moguénostima i
+nacinima primjene racunarskih sistema i informatike za pomoé hendikepiranim osobama.
+Sticane zanja u praktionoj primjeni personalnih racunara PS tipa. To su viestine u koristenju
+personalnih racunara i jestine u praktienoj primieni sistema WINDOWS:, te pojedinih
+aplikativnih programa za personalne racunare. Sticanje jestina praktionog koristenja aplikativnih
+programa WORD; EXCEL; INTERNET EXPLORER; POWER POINT.
+
+Ishodi ucenja
+Zanja iz racunarstva, informatike, informacionih sistera i informacionih tehnologija. Znanja o
+moguénostima, prednostima i nacinima njihove praktione primjene u razlicitim podrugjima i
+posebno u oblasti socijalnog rada. Zanja o moguénostima i nainima primjene racunarskih
+sisterna i informatike za pomoé hendikepiranim osobama. Vjestine praktione primjene
+personalnih racunara PS tipa. jestine u koristenju personalnih racunara. Vjestine praktine
+primjene oprativnog sistema WINDOWS, te pojedinih aplikativnih programa za personalne racunare. jestine praktinog koristenja aplikativnih programa WORD; EXCEL; INTERNET
+EXPLORER; POWER POINT.
 
 ### Sadržaj
 1. Pojam informatike i informacionih sistema.
@@ -714,9 +1358,15 @@ Aspekti koji se obrađuju:
 8. Primjena informatike u socijalnom radu.
 9. Primjena računarskih tehnologija u pomoći hendikepiranim osobama (uređaji, softver).
 
-### Literatura
-1. Z. Bundalo: *Informatika* (materijali).
-2. D. Obradović: *Osnovi računarstva*.
+### obavezna literatura
+1. Z. Bundalo: "Informatika", Materijali sa predavanja, Filozofski fakultet, Banja Luka
+2. D. Obradovic: "Osnovi racunarstva", Stilos, Novi Sad
+3. M. Tepsic: "Informatika", Materijali sa vjezbi, Filozofski fakultet, Banja Luka
+4. D. Ristanovió i dr. "Popularni programi", RS Knjizara, Beograd
+
+### sira literatura
+1. R. Mansfield: "WORD za WINDOWS-prva i druga knjiga", Mikro knjiga, Zagreb
+2. M. Nikolic: "Vodic kroz EXCEL za WINDOWS", Kompjuter biblioteka, Cacak
 
 ---
 
