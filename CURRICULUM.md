@@ -28,18 +28,18 @@
    - Socijalna politika kao praktična djelatnost
    - Socijalne potrebe, socijalna sigurnost i socijalni problemi - osnovni predmet socijalne politike
    - Odnos s filozofijom i drugim naukama:
-   1. filozofija,
-   2. sociologija,
-   3. politikologija,
-   4. politička ekonomija,
-   5. pravna nauka,
-   6. socijalni rad
+      1. filozofija,
+      2. sociologija,
+      3. politikologija,
+      4. politička ekonomija,
+      5. pravna nauka,
+      6. socijalni rad
 
    - Metode istraživanja socijalne politike:
-   1. Pozitivistička metodologija,
-   2. Kritičko-dijalektičke metode,
-   3. Metodološki strukturalizam i funkcionalizam,
-   4. Komparativne metode
+      1. Pozitivistička metodologija,
+      2. Kritičko-dijalektičke metode,
+      3. Metodološki strukturalizam i funkcionalizam,
+      4. Komparativne metode
 
 3. **Zajednička suštinska obilježja socijalne politike**
    - Istorijska kategorija
@@ -47,10 +47,10 @@
    - Civilizacijska kategorija
    - Univerzalna priroda socijalne politike
    - Opšta načela socijalne politike:
-   1. Solidarnost,
-   2. Uzajamnost,
-   3. Humanizam,
-   4. Socijalna pravda
+      1. Solidarnost,
+      2. Uzajamnost,
+      3. Humanizam,
+      4. Socijalna pravda
 
 4. **Osnovni faktori socijalne politike**
    - Egzogeni (međunarodni)
@@ -146,11 +146,8 @@ Osnovni cilj ovog predmeta je da se studenti upoznaju sa najznačajnijim teorija
 ### Oblici nastave
 Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja studenata, grupne rasprave, pisanje i odbrane seminara, korišćenjem video i drugog priručnog materijala, posjeta institucijama i naučnim skupovima, mentorskog rada, konsultacija sa profesorom i drugim učesnicima u nastavi, poštovanja poznatih stručnjaka, istraživača i drugih profesora.
 
-### Ocenjivanje
-
-**Studenata:** Ocenjivanje studenata obavljaće se tokom semestra pri čemu će se naročito vrednovati: interaktivno učešće u nastavi, pisanje i odbrana seminara, uvodna izlaganja o dogovorenim temama, učešće u izradi individualnih ili grupnih projekata, dva testa znanja sredinom i krajem semestra.
-
-**Nastavnika:** Ocenjivanje nastavnika obavljaće se dva puta u toku semestra putem anonimnog upitnika.
+### Ocenjivanje Studenata:
+Ocenjivanje studenata obavljaće se tokom semestra pri čemu će se naročito vrednovati: interaktivno učešće u nastavi, pisanje i odbrana seminara, uvodna izlaganja o dogovorenim temama, učešće u izradi individualnih ili grupnih projekata, dva testa znanja sredinom i krajem semestra.
 
 ### Program i sadržaji
 1. **Definisanje osnovnih pojmova:** Određivanje pojmova nauka, teorija, paradigma, modela, metoda, tehnika, vještina.
@@ -188,9 +185,10 @@ Nastava će se izvoditi u vidu power-point prezentacija, diskusija, izlaganja st
 ### Cilj i zadatak
 Zadatak nastave iz Sociologije ogleda se u cjelovitom upoznavanju studenata sa osnovnim karakteristikama društvenih teorija, procesima, strukturom i promjenama društva i socijalnih sistema. Cilj nastave je upoznati studente sa istraživanjima različitih oblasti socijalnog, političkog i kulturnog života. Posebno treba istaći dio nastavnog programa koji se odnosi na deontološki locirane teme, društveni karakter i značaj djelatnosti i profesije kojoj će studenti pripadati. Upoznavanje sa deontoloskom strukturom zanimanja ima za cilj dobijanje velikog broja informacija do kojih ne bi mogli doci studiranjem naunih oblasti same struke. Nastavni programi iz Sociologije trebaju biti razliciti, sto je uslovijeno razlikama fakulteta. Nastavni planovi, shodno tome, takoder ne moraju biti isti.
 
-Nastavni plan realizuje se u I semestru za 3 +0 sati sedmino.
+Nastavni plan realizuje se u I semestru za 3 + 0 sati sedmicno.
 
 ### Nastavni program predavanja
+
 **I. Teorija društva**
 1. Pozitivizam i fenomenologija
 2. Funkcionalizam
@@ -260,14 +258,14 @@ F) Politicko oblikovanje drustva;
 4. Autoritarni politicki sisterni;
 5. Demokratski politiüki sistemi;
 6. Akteri politike:
-a) politicke stranke,
-b) interesne grupe,
-c) opozicioni (drustveni) pokreti,
-d) institucionalizirane politicke akcije,
-e) javno mijenje;
-t)politicka kultura;
-g) politicka sociologija;
-h) politicki pluralizam;
+   a) politicke stranke,
+   b) interesne grupe,
+   c) opozicioni (drustveni) pokreti,
+   d) institucionalizirane politicke akcije,
+   e) javno mijenje;
+   t)politicka kultura;
+   g) politicka sociologija;
+   h) politicki pluralizam;
 7. Nacionalni suverenitet i kriza suvereniteta;
 8. Drzava-vojna sila i rat;
 
@@ -275,22 +273,22 @@ G) Kultura;
 1. Covjek i kultura;
 2. Kultura i civilizacija;
 3. Kulturni modeli,
-a) vrijednosti;
-b) pravila i norme;
-c) jezik;
-d) institucije,
-d) pogied na svijet;
-e) komunikacije;
+   a) vrijednosti;
+   b) pravila i norme;
+   c) jezik;
+   d) institucije,
+   d) pogied na svijet;
+   e) komunikacije;
 4. Kultumi tipovi, subkultura, akulturacija i enkulturacija,
 5. Kulture potrebe, masovna kultura i kriza kulture;
 6. Religija,
-a) vjerovanje,
-b) sjetske religije,
-c) teizam,
-d) ateizam,
-e) konfesije,
-f) sekularizacija,
-g) smisao i domeni kritike religijskog zivota;
+   a) vjerovanje,
+   b) sjetske religije,
+   c) teizam,
+   d) ateizam,
+   e) konfesije,
+   f) sekularizacija,
+   g) smisao i domeni kritike religijskog zivota;
 7. Fiziologija, umjetnost i nauka;
 8. Ideologija;
 
@@ -389,8 +387,8 @@ B) Filozofija egzistencije
 1. Osnovne karakteristike filozofije egzistencije
 2. Glavni predstavnici: Martin Hadeger, Karl Jaspers, Jean Paul Sartre
 
-VSEZBE
-Viezbe ée se odvijati u vezi sa predavanjem, propisanom literaturom iu funkciji izrade
+VJEZBE
+Vjezbe ée se odvijati u vezi sa predavanjem, propisanom literaturom iu funkciji izrade
 seminarskog rada koji je obaveza svakog studenta.
 
 ### Osnovna Literatura
@@ -556,40 +554,40 @@ Evropska socijalna povelja
 1. Pojam, znaaj i razoj judskih prava i osnovnih sloboda covjeka i gradanina;
 2. Znacajniji istorijski, politicki i pravni dokumenti o ljudskim pravima i osnovnim
 slobodama;
-a) Dokumenti kojima su utemeljena ljudska prava i osnovne slobode;
-b) Savremeni medunarodnopravni dolumenti o ljudskim pravima i slobodama;
-c) Evropska konvencija o ljudskim pravima i osnovnim slobodama, s protokolima i
+   a) Dokumenti kojima su utemeljena ljudska prava i osnovne slobode;
+   b) Savremeni medunarodnopravni dolumenti o ljudskim pravima i slobodama;
+   c) Evropska konvencija o ljudskim pravima i osnovnim slobodama, s protokolima i
 medunarodnim instrumentima o judskim pravima i slobodama;
 3. Teorijske Idasifikacije, ustavna koncepcija standardi judskim prava i sloboda;
 4. Izvori medunarodnog prava o ljudskim pravima i slobodama:
-(1) obicaj
-(2) medunarodni ugovori-univerzalni, regionalni, specifieni
-(3) politicki sporazumi
-(4) odiuke medunarodnih organizacija i asocijacija
-(5) opsta pravna nacela prosvecenog naroda
-(6) jednostrani akti drzava.
+   (1) obicaj
+   (2) medunarodni ugovori-univerzalni, regionalni, specifieni
+   (3) politicki sporazumi
+   (4) odiuke medunarodnih organizacija i asocijacija
+   (5) opsta pravna nacela prosvecenog naroda
+   (6) jednostrani akti drzava.
 5. Izvori prava o ljudskim pravima i slobodama u unutranjem pravu;
 6. Ostvarivanje medunarodnih obaveza i normi o ljudskim pravima i stobodama:
-(1) Obaveza osiguranja pravnog lijeka (utuziva i neutuziva prava);
-(2) Obaveza trenutnog i postupnog uvodenja;
-(3) Preventivna djelatnost;
-(4) Staranje kulture judskih prava;
-(S) Vanredna stanja i privremena suspenzija (derogacija) nekin prava;
-(6) Duenost medunarodne saradnje;
+   (1) Obaveza osiguranja pravnog lijeka (utuziva i neutuziva prava);
+   (2) Obaveza trenutnog i postupnog uvodenja;
+   (3) Preventivna djelatnost;
+   (4) Staranje kulture judskih prava;
+   (S) Vanredna stanja i privremena suspenzija (derogacija) nekin prava;
+   (6) Duenost medunarodne saradnje;
 7. Ljudska prava i slobode i medunarodne organizacije:
 1) Univerzalne organizacije:
-(1) Ujedinjene nacije,
-(2) Medunarodna organizacija rada,
-(3) UNESCO,
+   (1) Ujedinjene nacije,
+   (2) Medunarodna organizacija rada,
+   (3) UNESCO,
 2) Regionalne organizacije: Vijece Europe: Sud, Europska zajednica (unija), Organizacija za
 evropsku sigurnost i saradnju (KESS), Americka konvencija (oaj), Africka (Bandzulska) povelja,
 3) Neviadine organizacije i ljudska prava i slobode.
 8. Kontrola i nadzor nad ostvarivanjem judskih prava i sloboda:
-(1) Mcdunarodni nadzor
-(2) Padnosenje izvjestaja,
-(3) Utvrdivanje krsenja,
-(4) Priroda odluka medunarodnih sudova i drugih organa,
-(5) Postupanje politickih tijela povodom masovnog krsenja judskih prava i sloboda.
+   (1) Mcdunarodni nadzor
+   (2) Padnosenje izvjestaja,
+   (3) Utvrdivanje krsenja,
+   (4) Priroda odluka medunarodnih sudova i drugih organa,
+   (5) Postupanje politickih tijela povodom masovnog krsenja judskih prava i sloboda.
 9. Osnovni izvori, nacela i mehanizmi primjene i zastite ljudskih prava i sloboda koje
 proiziaze iz humanitarnog prava.
 10. Kaznjavanje za krsenje ljudskih prava. Unutrasnja nadleznost. Medunarodni kazneni
@@ -619,10 +617,10 @@ sistemu Republike Srpska i BiH:
 (4) Sloboda zbora i javnog okupljanja,
 (5) Sloboda stampe i drugih vidova javnog izrazavanja,
 (6) Pravo na predstavke, peticije i prijedloge,
-
 (7) Pravo na javnu kritiku,
 (8) Pravo na drzavijanstvo.
-2. Ekonomska i socijalna prava i slobode:
+
+3. Ekonomska i socijalna prava i slobode:
 (1) Pravo vlasnistva (viasnistva), poduzetnistva i trzista,
 (2) Pravo nasijedivanja,
 (3) Pravo na rad,
@@ -635,7 +633,7 @@ sistemu Republike Srpska i BiH:
 (10) Pravo na zastitu majke, djece i obitelji
 (11) Pravo na skolovanje.
 
-3. Nova i posebna prava i slobode (tzy. Prava "trece generacije"):
+4. Nova i posebna prava i slobode (tzy. Prava "trece generacije"):
 (1) Pravo na zdravu Zivotnu sredinu (ekoloska prava)
 (2) Pravo u oblasti upravijanja,
 (3) Pravo i slobode etniökh grupa i nacionalnih manjina,
@@ -730,12 +728,9 @@ Luka, 1998.
 **Semestar:** I, II, III, IV
 **Fond:** 2+1 (I/II), 1+2 (III/IV)
 
-### Cilj
-C i l j i z a d a c i :
+### Cilj i zadaci:
 Cilj ovog kursa je pomoci studentima da dobro ovladaju osnovnom gramatikom engleskog jezika, omoguciti im
-pravilno da se njime koriste u datin
-a k t i v i r a j u s o j e pasivno znanje engleskog i
-s i t u a c i j a m a .
+pravilno da se njime koriste u datina situacijama i da aktiviraju svoje pasivno znanje.
 
 ### Sadržaj (I i II godina)
 - **Gramatika:** Glagolska vremena (Present, Past, Future), Modali (can, must, should, have to), Kondicionali, Pasiv, Indirektni govor, Članovi, Komparacija.
@@ -856,17 +851,13 @@ naslijeda i ucenja u razoju emocija. Afekti, stresovi i traume kao postjedica in
 starenja)
 12.3. Klimaktorij i njegova obiljezja.
 
-Literatura za spremanje ispita
+### Literatura za spremanje ispita
 1. Opsta psihologija-N. Rot, Zavod za izdavanje udzbenika RS, Beograd.
 2. Osnovi razvojne psihologije-B. Nesié-V. Radomirovic, Univerzitet u Kragujevcu, Jagodina,
 2000.
 3. Covjekov psihicki Zivot-l. Furlan, Skolska knjiga Zagreb, 1981.
 4. Psihologija djeteta-Z.Pijaze i Inhelder, Dobra vijest, Novi sad, 1990.
 
-### Literatura
-1. N. Rot: *Opšta psihologija*, Beograd.
-2. B. Nešić, V. Radomirović: *Osnovi razvojne psihologije*, Jagodina, 2000.
-3. I. Furlan: *Čovjekov psihički život*, Zagreb.
 
 ---
 
@@ -1443,19 +1434,45 @@ Upoznavanje sa teorijama psihologije grupa i metodama rada sa grupama.
 **Profesor:** Drago Branković
 **Fond:** 2+2
 
-### Sadržaj
-1. Metodologija kao naučna disciplina.
-2. Proces naučnog saznanja.
-3. Hipoteze.
-4. Etape istraživanja.
-5. Populacija i uzorak.
-6. **Metode:** Analiza i sinteza, istorijska, deskriptivna, eksperiment.
-7. **Tehnike i instrumenti:** Analiza dokumentacije, sociometrija, testiranje, skaliranje, anketiranje, intervjuisanje, studija slučaja.
+## Ocekivani ishodi:
+Opste kompetencije: uvodenje studenata u podruje metodologije pedagogije, njezinog
+pojmovno-terminoloskog sistema te sticanje osnovnih metodoloskih znanja.
+Specifine kompetencije: osposobljenost za izradu projekata nauno-istrazivackog rada u
+pedagogiji.
 
-### Literatura
-1. Mandić, P.: *Metodologija naučnog rada*.
-2. Šešić, B.: *Osnovi metodologije društvenih nauka*.
-3. Bandur, Potkonjak: *Metodologija pedagogije*.
+### Tematska podrucja (sadrzaji)
+1. Metodologija kao nauna disciplina
+2. Proces nauănog saznanja
+3. Priroda, osnovne vrste i struktura naunog istrazivanja
+4. Hipoteze u drustvenim istrazivanjima
+5. Etape u drustvenim istrazivanjima
+6. Populacija i uzorak istrazivanja
+7. Metode drustvenih istrazivanja (metoda drustvene analize i sinteze, istorijska nau ă no-
+istrazivacka metoda, deskriptivna metoda, eksperiment, ekc posr facto)
+8. Tehnike i instrumenti u drustvenim istraivanjima (analiza dokumentacije, sociometrije,
+testiranje, skaliranje, anketiranje, interjuiranje, studija slucaja)
+
+### Osnovna literatura:
+1. Mandic, P. (2004): Metodologija nau ă nog rada, Akademija nauka RS, Banja Luka,
+2. Sesic, B (1996): Osnovi metodologije drustvenih nauka, Vuk Karadzic, Beograd
+3. Bandur, V., Potkonjak, N. (1999), Metodologija pedagogije, Savez pedagoskih drustava
+Jugoslavije, Beograd
+4. Muzit, V, (1999), Uvod u metodologiju istraivanja vaspitanja i obrazovanja, Educa, Zagreb
+5. Ristié, Z. (1995), O istrazivanju, metodu i zanju, Institut za pedagoska istrazivanja, Beograd
+### Sira literatura:
+1. Kuba, L., Koking, Dz. (2004), Metodologija izrade naugnog teksta, CID, Podgorica,
+Romanov, Banja Luka
+2. Susnjic, D., (1999), Metodologija, Cigoja - tisak, Zagreb
+3. Good, C.V. i Scates, D.E. (1967), Metode istrazivanja u pedagogiji, psihologiji i sociologiji,
+Otokar Kersovani, Rijeka
+
+Izvodenje nastave
+Nastava se izvodi u vidu fakultetskih predavanja, seminara i radionicke aktivnosti.
+
+Provjera znanja
+Provjera znanja vrsi se tokom i na kraju semestra a obuhvata: a) rezultat pismenog dijela ispita
+(test zanja), b) Rezultate kontinuiranog pracenja aktivnosti studenata u nastavi, c) izrade i
+prezentacije seminarskog rada 1d) zavrsnog usmenog ispita
 
 ---
 
@@ -1463,20 +1480,39 @@ Upoznavanje sa teorijama psihologije grupa i metodama rada sa grupama.
 **Profesor:** Prof. dr Željko Mirjanić
 **Godina:** III (3+2)
 
+NASTAVNI CILJEVI:
+Ciljevi izuavanja predmeta: upoznavanje studenata sa pojmovima i
+institutima radnog prava, individualnim i kolektivnim radnim odnosima, sociolo
+
 ### Sadržaj
-1. Pojam i razvoj radnog prava.
-2. Pravo na rad, radni odnosi, nezaposlenost.
-3. Zapošljavanje, raspoređivanje, stručno osposobljavanje.
-4. Radno vrijeme, odmori, odsustva.
-5. Odgovornost zaposlenih (materijalna, disciplinska).
-6. Prestanak radnog odnosa.
-7. Zaštita prava, kolektivna prava (štrajk), sindikati.
-8. **Sociologija rada:** Kultura i rad, podjela rada, feminizacija radne snage, budućnost rada.
+1. Pojam, predmet i razvoj radnog prava.
+2. Pravo na rad, radni odnosi, i forme rada izvan radnog odnosa.
+3. Nezaposlenost i prava nezaposlenih. Zapošljavanje i regulisanje zaposljavanja.
+4. Rasporedjivanje zaposlenih. Strucno osposobljavanje zaposlenih.
+5. Radno vrijeme, odmori i odsustva. Mirovanje radnog odnosa.
+6. Odnos prema radu i odgovornost zaposlenih. (materijalna, prekrsajna i krivicna).
+7. Prestanak radnog odnosa.
+8. Ostvarivanje i zastita prava zaposlenih.
+9. Kolektivna prava zaposlenih i rjesavanje kolektivnih radnih sporova.
+10. Kolektivna prava poslodavca.
+11. Posedni rezim radnih odnosa.
+12. Pristup sociologije i sociologije rada problemima rada. Kultura i rad. Rad i vrijeme.
+13. Rad i pol. Problem feminizacije radne snage i umijece zenskog rada.
+14. Profesionalno umijece-izmedu drustvene i tehnicke podjele rada; Kontinuitet i privremenost u industrijskom radu.
+15. Buducnost organizacije rada. Od rutinske ka inovativnoj organizaciji rada.
+
 
 ### Literatura
-1. Željko Mirjanić: *Radni odnosi*.
-2. Vlajko Brajić: *Radno pravo*.
-3. Haralambos, Holborn: *Sociologija* (dio o radu).
+
+a) obavezna literatura
+• Zeljko Mirjanió, Radni odnosi, Pravni fakultet, Banja Luka, 2004;
+• Vlajko Brajic, Radno pravo, Informator, Zagreb, 2001.
+• Branko Lubarda, Kolektivni radni spor, Beograd, 2003;
+• Bozo Milosevié, "Umijece rada" - Filozofski fakultet Novi Sad, 1997;
+• Michael Haralambos, Martin Holbor, Sociologija: Teme i perspektive "- Golden marketing,
+Zagreb, 2002;
+b) sira literature
+• Predrag Jovanovic, Radno pravo, Sluzbeni list Srbije, Beograd, 2005;
 
 ---
 
@@ -1484,11 +1520,29 @@ Upoznavanje sa teorijama psihologije grupa i metodama rada sa grupama.
 **Fond:** 3+1
 **Status:** Obavezan
 
+### Ciljevi izucavanja predmeta
+Cill nastave predmeta „Organizacija socijalnog nda i menadèment" je da osposobi studente za upotrebu zanja i
+viestina iz oblasti menadimenta u socijalnom radu u skiladu sa savremenim teorijskim pristupima,
+interdisciplinarnim saznanjima i peaktionim iskustvima.
+
+### Ishodi ucenja predmeta
+Ovladavanje pojmovno teosijskim osnovama menadamenta u socijalo radu; kluenim oblastima paimjene
+menadimenta u oblasti socialog rada, kao sto su: komunikacija, lidestvo, radne grupe, konfilti u
+organizacijama, timski rad, menadiment usluga, etika profesije; ciljevina i principima socijalog macketinga i
+njegove primjene u socijalnom radu; i oblascu odnosa sa javnoséu u lontekstu ustanova i institucija gdje djeluje socijalni rad
+
 ### Sadržaj
-1. **Pojmovno teorijske osnove menadžmenta:** Teorije, radne grupe, komunikacija, liderstvo, konflikti.
-2. **Socijalni marketing:** Pojam, kampanje.
-3. **Odnosi sa javnošću (PR):** Funkcije, mediji, specifičnosti u neprofitnim organizacijama.
-4. **Specifičnosti menadžmenta u socijalnom radu:** Etika, timski rad, menadžment usluga.
+I Pojmovno teorijske osnove menadimenta (Pojam menadementa; Shvatanja u definisanju menadementa;
+Raztoi misti o menadimento ili upcavijanju; Teouje menadimenta; Radne grupe i menadiment, komunikacia i
+menadzment; Lidertvo; Menadement i konfist: konfliktiu organizacip)
+Il Socijalni marketing u socijalnom radu (Pojam i ciljevi socijalnog marketinga; Elementi socijalue
+rampanje u socijalnom marketingu)
+IlI Odnosi sa javnoscu (PR) kao menadiment funkcija u socijalnom radu i neprofitnim
+organizacijama (Pojam i definisanje ocnosa sa javnoscu; Funkcije odosa sa javnoscu; Spolini mediji i
+odnosi sa medijima; Specifcnost odnosa sa javnoscu u neprofitnim organizacijama)
+IV Osnovne specifinosti menadimenta u socijalnom radu (Menadement i profesionalna etika socijalnog rada.
+Timski rad u socijalnom radu. Menadzment usluga u socijalnom radu i socijalnoj zastiti.
+
 
 ### Literatura
 1. Rakas, S.: *Sociologija menadžmenta*.
@@ -1501,18 +1555,44 @@ Upoznavanje sa teorijama psihologije grupa i metodama rada sa grupama.
 **Semestar:** V (2+2)
 **Status:** Izborni
 
+### Kratak opis programa i ciljeva predmeta:
+
+U uslovima izrazene ekonomske i socijalne krize u svir oblastima Zivota, mentalno-
+higijenski problemi pojedinaca, grupa ali i zajednice postaju sve izrazeniji. Zato se program
+mentaine higijene za studente socijalnog rada bazira ne samo na teorijskim dostignucima
+savremene nauke vec je prvenstveno usmeren kao primena najvanijih principa u prevenciji,
+zastiti i tretmanu pre svega miadih, njihovit porodica ali i onih grupa, koje su sticajem zivotnih okolnosti posebno ugrozene, deca bez roditeljskog staranja, asocijalno ponasanje, narkomanija, kao i zlostavijanja deca i uopste poremeceni porodini odosi koji produkuju socijalne probleme u svim sferama zivota.
+Zbog slozenosti problema kojima se bavi mentalna higijena se oslanja na dostignuca
+korespondentnih nauka humanisticke orientacije i sa njima saraduje ostvarujuéi mrezu
+strunjaka zainteresovanih za neposredno i prakticno angazovanje ka pomoci pojedincima i ugrozenim grupama.
+
+### Ishodi ucenja:
+Ishod ovako koncpirane nastave i praktionog rada treba da bude osposobljavanje studenata
+za razumevanje uzroka koji dovode do poremecaja mentalnog zdravija i teskoda u
+psihosocijalnom funkcionisanju pojedinaca i grupa. Pored teoretskih zanja poseban ishod
+ucenja zasnovan je na praktionim nanjima za preduzimanje aktivnosti koje doprinose
+unapredenju mentainog zdravija uz korekciju i promenu onih uslova zivota u socijainoj
+zajednici koji tome najvise doprinose.
+Vazan ishod ovakvog usmeranja je osposobljavanje studenata za timski rad sa
+struinjacima korespondentnih struka uz uvazavanje standarda profesije i savremenih
+tendencija u prave unapredivanja mentainog zdravija.
+
 ### Teme
-1. Mentalna higijena u sistemu humanističkih nauka.
-2. Zaštita i unapređenje mentalnog zdravlja, prevencija (primarna, sekundarna, tercijarna).
-3. Problemi predškolske djece (deprivacija, navike).
-4. Problemi školske djece (uspjeh, odnosi).
-5. Problemi u adolescenciji (identitet, seksualnost, separacija).
-6. Vršnjačke grupe, toksikomanija.
-7. Problemi odraslih, brak, porodica.
-8. Poremećaji porodičnih odnosa.
-9. Zaštita djece bez roditeljskog staranja.
-10. Osobe sa posebnim potrebama.
-11. Zaštita u zajednici.
+1. Mentalna higijena u sistemu humanističkih nauka. Pojam mentalnog zdravlja i bolesti.
+2. Zaštita i unapređenje mentalnog zdravlja. Primarna, sekundarna, tercijarna prevencija, modeli prevencije.
+3. Mentalno higijenski problemi predskolske dece. Rano afektivno lisavanje i posledice.
+4. Poremecaji kod dece i predskolskog uzrasta (poremecaj navike, ishrane, odnosa u porodici (uloga roditelja))
+5. Mentalno-higijenski problemi skolske dece (uspeh a skoli, odnosi sa nastavnicima, bezanje i z skole i dr.
+6. Mentalno-higijenski problemi u adolescenciji. Kliueni problemi (identitet, seksualnost, separacija od roditelja)
+7. Provera znanja (Test zanja. Prikaz stucajeva iz prakse i diskusije)
+8. Uloga vrnjackih grupa. Toksikomanija. Ukijucivanje u socijalnu zajednicu.
+9. Mentalno-higijenski problemi odraslih. Izbor partnera. Priprema za brak. Funkciie porodice.
+10. Poremecaji brainih i porodicnih odnosa. Separacija. Problem dece iz porodica sa poremecenim odnosima.
+11. Zastita dece bez roditeliskog staranja. Oblici zastite. Postovanje principa mentalne higijene u interesu djece.
+12. Deca, adolescenti i odrasti sa posebnim potrebama. Psihosocijalni aspekti hendikepa. Priprema za samostalni zivot.
+13. Zastita i unapredenje mentalnog dravija u zajednici.
+14. Praktican rad studenata u razlicitim ustanovama za zastitu i unapredenje mentalnog dravija. Studija stucaja.
+15. Zavrsni ispit (Odbrana seminarskog rada zasnovanog na praktionim iskustvima - usmeni ispit)
 
 ### Literatura
 1. Vidanović, I., Kolar, D.: *Mentalna higijena*.
@@ -1527,88 +1607,207 @@ Upoznavanje sa teorijama psihologije grupa i metodama rada sa grupama.
 **Semestar:** VII (Izborni, 60 časova)
 
 ### Teorijska nastava
-1. Definicija i predmet socijalne medicine. Istorijski razvoj. Pojam zdravlja i zdravstvene zaštite.
-2. Metodologija proučavanja zdravstvenog stanja (indikatori).
-3. Činioci zdravlja: sredina (fizička, biološka, socijalna).
-4. Socijalna oboljenja: karakteristike.
-5. Značaj oboljenja: kardiovaskularna, maligna, povrede, alkoholizam, pušenje, itd.
-6. Uloga socijalnog radnika u suzbijanju socijalnih bolesti.
-7. Zdravstvena i socijalna zaštita posebnih kategorija (djeca, stari, radnici).
-8. Organizacija zdravstvene službe (sistemi).
-9. Medicinska etika i timski rad.
-10. Statistika morbiditeta i mortaliteta.
-11. Međunarodna saradnja (SZO, Crveni krst).
-12. Menadžment u socijalnoj medicini.
+1. Definicija socijalne medicine kao strune i naune disciplive. Predmet proucavanja i
+podela. Istorijski razoj socijalno-medicinske misli i prakse. Pojam zdravija, pojam
+zdravstvene zastite, pojam primarne zdravstevene zastite - savremena shvatanja.
+Pojam prepatogeneze, patogeneze, primarna, sekundama i tercijema prevencija.
+2. Metodologija proucavanja dravstvenog stanja stanovaistva. Vrednost i primena
+metoda u socijalnoj medicini. Indikatori za ocenu dravstvenog stanja stanovnistva -
+zdravstveni indikatori.
+3. Najvaniji cinioci koji utieu na dravije stanovnistva. Spolina sredina i dravije.
+Fizicka sredina i zdravlje. Hemijska sredina i dravije Bioloska sredina i zdravlje.
+Socijalna sredina i zdravlje.
+4. Socijalna oboljenja i stanja. Elementi koji odredjuju socijalno-medicinske
+karakteristike pojedinim oboljenjima. Oboljenja sa najizrazenijim socijalno-
+medicinskim znaajem u razvijenim i nerazvijenim sredinama.
+5. Socijalno-medicinske karakteristike i znaaj oboljenja sica i krunih sudova, malignih
+oboljenja, povreda, reumatizma, secerne bolesti, ulkusa, tuberkuloze, akutnih zaraznih
+oboljenja, alkoholizma, pusenja, gojaznosti, zubnog karijesa, venericnih bolesti,
+pabacaja, rahitisa i dr.
+6. Socijaine bolesti, karakteristike i uloga socijalnog radnika u njihovom suzbijanju.
+7. Zdravstvena i socijalna zastita pojedinih kategorija stanovnistva. Zdravstvena i
+socijalna zastita predskolske i skolske dece, omladine, starih osoba, radnika,
+zemijoradnika i drugib lica. Moguénosti ostvarivanja dravstvene i socijalne zastite u
+razlicitim sredinama. Obavezni vidovi zdravstvene zastite stanovnistva. Planiranje
+porodice.
+8. Principi i nacela za organizaciju zdravstvene stube i dravstvene zastite. Sistem
+organizacije zdravstvene sluzbe u nas i uporedni pregled sa drugim zemijama
+(socijalizovana zdravstvena zastita, liberalni i intermedijarni sistem zdravstvene
+zastite). Zdravstvene organizacije - struktura, kadrovi, oprema, metod rada. Planiranje
+zdraystvene i socijalne zastite.
+9. Mesto i uloga zdravstvenih i socijalnih radnika u zdravstvenoj zastiti stanovnistva.
+Medicinska etika. Timski rad u zdravstvenoj i socijalnoj zastiti. Zdravstveno
+vaspitanje i zdravstveno prosvecivanje. 2dravstvena kultura injen uticaj na dravije
+stanovnistva.
+10. Statistika morbiditeta i mortaliteta. Statistika zdravstvene delatnosti. Merila kvaliteta i
+obima rada u stacionarnim i vanstacionarim zdravstvenim organizacijama.
+Medjunarodna klasifikacija povreda i uzroka smrti.
+11. Medjunarodna saradnja u oblasti zdravstvene zastite. Crveni krst. Svetska zdravstvena
+organizacija.
+12. Menadzment u socijalnoj medicini. Lik menadiera i izbor strateske opcije
+Prepoznatijive aktivnosti menadzera: medjuljudske, informativne i upravljacke.
+Vestina menadzera u socijalnoj medicini i socijalnoj zastiti. Vestina rukovodjenja
+Ijudima i komunikacija. Vestina organizovanja rada. Vestina upravijanja resursima.
 
 ### Praktična nastava
-Posjete zdravstvenim organizacijama (Dom zdravlja, Bolnica, Zavod).
+Posete zdravstvenin organizagijama: Dom dravija, Bolnica, Zavod za zastitu zdravija
+Cili posete je sticanje uvida u organizaciju i red ovih ustanova, kao i mesta i uloge
+socijalnog radnika u strinim timovima na prevenciji, dijagnostici i rehabilitacifi i
+zdravstvenoj zastiti opste.
 
 ### Literatura
-1. Jakovljević, Savić: *Socijalna medicina*.
-2. Cucić i sar.: *Socijalna medicina*.
-3. Šumrak, D.: *Socijalna medicina* (skripta).
+1. Colakovié B.: Socijalna medicina, Beograd
+2. Jakovljevié Đ , Savic D. : Socijalna medicina, udzbenik, Beograd
+3. Micovié P, Cució V, Janjié M.: Socijalna medicina, udzbenik, Med. knjiga 1979
+4. Cucié V. i sar.: Socijalna medicina, Univer, Udzbenik, Beograd, 2002
+5. Mihajlovic B, Kostic N. : Menadiment u zdraystya, Beograd, 2005
+6. Sumrak D. : Socijalna medicina, skripta, 2005
+7. Mintzberg H: The nature of Menagerial Work, 1973
+8. Kotler F: Upravljanje marketingom, Zagreb, 2003
+9. Jaksic Z, Kovació L. : Socijana medicina, Zagreb 2000
 
 ---
 
 ## 25. Uporedni politički sistemi
 **Profesor:** Prof. dr Zdravko Zlokapa
 
+### Ciljevi izuavanja predmeta:
+Predmet je osveden analizi i proudavanju „velikih" savremenih politickih sistema i modela
+organizovanja teorijskih koncepcija u praksi politickog Zivota. Sluzeci se uporednim metodom,
+kurs omoguéava uvid u natin funkcionisanja politickih sistema, njihovih institucija i drugih
+politiökih aktera.
+
+### Ishodi ucenja (steena zuanja):
+Studenti treba da steknu zanja i uvid u priodu, karakter i nain funkcionisanja najvaznijih
+politickih sistema zemalja savremenog svijeta na onovama uporedivanja i starnih dometa
+teorijskih koncepata. Primjenom uporedne metode studenti se osposobljavaju da shvate
+raznovrsnost organizovanja i institucionalizovanja politickih sistema i politike uopste.Koristedi
+pomenuti metod posmatranja i eksplikativno- prospeltivni pristup studenti sticu neophodna
+zanja koja im ornogucavaju
+sagledavanje uporednih prednosti, ali i mana pojednih
+institucionalnih i sistemskih rjesenja.
+
 ### Sadržaj
-1. Pojam i klasifikacije političkih sistema.
-2. Modeli organizacije vlasti.
-3. Savremeni modeli demokratije (konsocijacijski, većinski).
-4. Savremeni nedemokratski režimi.
-5. Parlamentarizam, predsjednički sistem (SAD), polupredsjednički.
-6. Politički sistem BiH i RS.
+Pojam, determinante i klasifikacije savremenih politickih sistema: Osnovni modeli horizontaine
+organizacije vlasti; Oblici vertikalne organizacije vlasti: Savremeni modeli demokratije;
+Konsocijacijski modeli- model-Svajcarske konsocijacije; Veinski modeli - „vestminsterski"
+model; Savremeni nedemokratski politicki rezimi; parlamentarizam; Predsjednicki sistem SAD;
+Polupredsjednicki sistemi; „slucaj" BiH i RS.
 
 ### Literatura
-1. Đ. Sartori: *Uporedni ustavni inženjering*.
-2. A. Lajphart: *Modeli demokratije*.
+Đ. Sartori, Uporedni ustavni inzenjering, „Filip Visnjit", Beograd, 2003.
+A. Lajphart, Modeli demokratije, Sluzbeni list SCG, CID, Podgorica, 2003.
 
 ---
 
 ## 26. Socijalni razvoj i planiranje
 **Profesor:** Ana Gavrilović
 
-### Sadržaj
-**I. Teorijski pristup**
-- Pojam socijalnog razvoja, odnos sa privrednim razvojem.
-- Novije teorije (razvoj iz baze, osnovne potrebe, endogeni razvoj, održivi razvoj).
-- Faktori razvoja (politički, ekonomski, demografski).
-- Indikatori razvoja.
+### Teorijski pristup izucavanju socijalnog razvoja i planiranja
 
-**II. Socijalni razvoj u Jugoslaviji (istorijski osvrt)**
-- Trendovi, tranzicija, perspektive.
+1. Socijalni razvoj
+(1) Pojam socijalnog razvoja
+(2) Odnos privrednog i socialnog razvoja
 
-**III. Planiranje socijalnog razvoja**
-- Pojam, ciljevi, funkcije, principi planiranja.
-- Metodologija planiranja.
-- Planiranje životnog standarda, kadrova, javne potrošnje.
+2. Novije teorije drustvenog i socijalnog razvoja
+(1) Koncept razvoja iz. baze
+(2) Koncept razoja temeljen na strategiji osnovnih potreba
+(3) Koncept endogenog razvoja
+(4) Razoj usmjeren prema covjeku
+(5) Koncept globalnog (sjetskog) razvoja
+(6) Optimisticki pristup razvoju
+(7) Pesimisticki pristup razvoju
+(8) Doktrina "drzave blagostanja"
+
+3. Faktori socijalnog razvoja
+1. Politicki sistemi
+2. Ekonomska osnova drustva
+3. Ideologija
+4. Stanovnistvo
+5. Nauka
+
+4. Indikatori razvoja
+1. Selekcija indikatora
+2. 0 "mjerljivosti" i "nemjerljivosti" indikatora razvoja
+
+5. Medunarodna aspekt socijalnog razvoja
+1. Socijalni trendovi razvijenih i zemalja u razvoja
+2. Socijaini razoj i socijalna politika Europske unije
+3. Socijalna situacija zemalja u tranziciji
+
+### Socijalni razvoj u Jugoslaviji
+1. Socijaini razoj do poetka osamdesetih godina
+2. Socijalna regresija od osamdesetih godina do raspada SFRJ
+3. Socijaina situacija devedesetih godina
+4. Perspektive socijalnog razoja u uslovima preobrazaja
+5. Metodologija istrazivanja u podruăju socijalnog razvoja
+
+### Planiranje socijalnog razroja
+1. Pojam planiranja socijalnog razvoja
+2. Ciljevi i zadaci planiranja
+3. Funkcije planiranja
+4. Principi planiranja
+5. Teorijske osnove planiranja
+6. Sistemi planiranja
+7. Istorijski razvoj planiranja
+8. Faze planiranja u Jugoslaviji
+9. Proces planiranja
+10. Planiranje Zivotnog standarda
+11. Planiranje kadrova
+12. Planiranje u oblasti javne potrosnje
+13. Metodologija planiranja
 
 ### Literatura
-1. Lakićević, M.: *Socijalni razvoj i planiranje*.
-2. Lakićević, M.: *Socijalna ugroženost*.
+1. Lakicevic, dr. Mira: Socijaini razoj i planiranje, Udruzenje strucnih radnika socijalne zastite
+Republike Srbije, Beogra, 1995.
+2. Lakidevic, dr. Mira: Socijalna ugrozenost, institut za socijalnu politiku, Beograd, 1987.
+3. Lakicevic, dr. Mira: Socijalni trendovi devedesetih godina u svijetu, Zbomik radova Katedre
+za socijalni rad i socijalnu politiku FPN, br. II, Beograd 1996.
+4. Lakiéevic, dr. Mira: Osnovni tokovi i problemi socijainog razoja u SRJ u uslovima prelaska
+na trzisnu ekonomiju, Zbomik radova FPN, Centar za drustveno-ekonomske studije, Beograd,
+1997.
+5. Vajs, dr. Edita: Sjetski samit o socijalnom razoju, cas. Socijalna politika i socijalni rad,
+Zagreb, br. 1-2/1996.
+6. Dinkió, dr. Mirosinka: Socijalna politika-bitna komponenta strategije razvoja SRJ do 2000.
+godine, Zbornik radova Katedre za socijalni rad i socijalnu politiku FPN, broj II, Beograd, 1996.
+7. Sefer, dr. Berislav: Socijalno stanje, socijalna politika i tranzicija u trzisnoj privredi, Zbornik
+radova Katedre za socijalni rad i socijalnu politiku FPN, broj I, Beograd, 1994.
 
 ---
 
 ## 27. Socijalni rad sa zavisnicima
 **Profesor:** Prof. dr Tomislav Sedmak
 
+### KRATAK OPIS PREDMETA:
+Zavisnici predstavijaju zacajni dio populacije koja uspostavija veoma raznovesne profesionalne odnose sa socijalnim radnicima u neposrednom svakodnevnom praktionom radu. Bolesti zavisnosti, kao bolesti ponasanja odrazavaju soje nepovoline efekte ne samo na individualno socijalno ponasanje zavisnika, vec kroz javnost ponasanja ugrozava i ostecuje neposrednu socijalnu sredinu i posebno lanove vlastite porodice. Zadatak socijalnog radnika je da kroz teorijsku i praktionu nastavu upozna osnovne principe i poremecenost ponasanja zavisnika da bi u praktionom, timskom i samostalnom radu pruzao prikladnu pomoc pojedincima i porodicama sa posebnim potrebama, ukljujudi dostupne intervencije u okviru socijalnog rada uopste, kao i socio-terapijsku pomoé pojedincima i ugrozenoj porodici zavisnika.
+
 ### Sadržaj
-1. Pojam bolesti zavisnosti.
-2. Psihoaktivne supstance.
-3. Kriza adolescencije, rizična ponašanja.
-4. Pušenje, marihuana, narkomanija.
-5. **Alkoholizam:** Definicija, vrste, faze, posljedice.
-6. Porodični alkoholičarski sistem (supruge, djeca).
-7. Liječenje: motivacija, ciljevi, grupna terapija.
-8. Sistemska porodična terapija.
-9. Terapijske zajednice, komune.
-10. Klub liječenih alkoholičara.
+1. Sedmica - Poimanje bolesti zavisnosti I poremecaja ponasanja
+2. Sedmica - Psihoaktivne supstance u socijalnoj sredini
+3. Sedmica- Kriza adolescencije, riziona ponasanja
+4. Sedmica - Pusenje, marihuana
+5. Sedmica- Narkomanija
+6. Sedmica - Alkoholizam, definicija, vrste
+7. Sedmica - Faze alkoholizma
+8. Sedmica - Socijalne, Psiholoke i Fizike posijedice
+9. Sedmica - Porodini alkoholicarski sistem, supruge, djeca
+10. Sedmica- Osobine linosti, vestine i zanja terapeuta
+11. Sedmica- Lijecenje alkoholicara, motivacija, ciljevi
+12. Sedmica - Primjena grupnih principa u terapiji zavisnika
+13. Sedmica - Sistemska porodina terapija
+14. Sedmica- Principi terapijske zajednice, komune
+15. Sedmica- Klub lijecenih alkoholicara
 
 ### Literatura
-1. Stojković, Sedmak: *Alkoholizam. Terapijski koncepti i praksa*.
-2. Stanković, Begović: *Alkoholizam od prve do posljednje čaše*.
+LITERATURA:
+1. Stojkovió, LJ.,Sedmak, T., 0,2003, Alkoholizam. Terapijski koncepti i praksa.ZUNS Beograd;
+2. Stankovic, Z., Begovié, D., 2003, Alkoholizam od prve do posijedne case. Kreativni centar
+Beograd;
+3. Nastasié, P, 2004, Ne dozvoli da te droga izbaci iz igre / gospodarskipregled. Beograd
+4. Nastasié, P., 1998.,Alkoholizam i medugeneracijsko prenosenje. Tehnis.Beograd
+5. Stojkovic, LJ.,Braöni lavirint. Vi, vas muz i alkohol, Divit, Beograd, 1999
+6. Tric, V., 2001.,Porodica alkoholicara, Zaduzbina Andrejevic, Beograd
+7. Dvanaest koraka i dvanaest tradicija anonimnih alkoholicara.Global Book, Novi Sad, 1996.
 
 ---
 
@@ -1616,32 +1815,200 @@ Posjete zdravstvenim organizacijama (Dom zdravlja, Bolnica, Zavod).
 **Predavač:** Doc. dr Mirjana Rađenović
 
 ### I. Osnove upravnog prava
-- Pojam uprave, upravni odnos.
-- Organi uprave.
-- Upravni akti (vrste, elementi).
-- Upravne radnje.
+
+1. Pravno-teorijska shvatanja uprave
+1.1. Uprava u formalnom smislu
+1.2.Uprava u materijalnom mislu
+1.3. Uprava u smislu upravnog rada
+1.4. Upravni rad kao drzavna funkcija i druge drzavne funkcije
+
+2. Upravni odnos kao pravni odnos
+2.1. Pojam i obiljezja upravnih odnosa
+2.2. Ucesnici, nastanak, sadrzina i prestanak upravnih odnosa
+
+3. Organi i organizacije javne uprave
+3.1.Centralni i necentralni subjekti upravnog rada
+3.2. Driavni i nedrzavni subjekti upravnog rada
+3.3. Glavni i ostali subjekti upravnog rada
+
+4.Osnovni pravni instrumenti i glavne kategorije upravnog rada
+4.1.Upravno pravni akti (upravni akt)
+4.2.Upravno materijalni akti(upravna radnja)
+4.3.Rjesavanje u upravnim stvarima
+4.4.Upravni nadzor
+4.5. Evidencija linih stanja i izdavanje javnih isprava (uvjerenja)
+
+5. Vrste upravno-pravnih akata
+5.1 Pravno vezani i diskrecioni upravni alti
+5.2. Pozitivni i negativni upravni akti
+5.3.Konstitutivni i deklarativni upravni akti
+5.4.Individualni i generalni upravni akti
+5.5.Prosti i slozeni upravni akti
+5.6.Upravni akti donijeti po sluzbenoj duznosti i upravni akti donijeti po zahtjevu stranke,
+odnosno po njenom pristanku
+5.7.Upravni akti ogranicenog i upravni akti neogranicenog trajanja
+5.8.Rjesenja i zakljuci
+5.9. Strogo formalizovani i blaze formalizovani upravni akti
+
+6. Vrste upravno materijalnih akata
+6.1.Mjerilo pravnog osnova vrsenja
+6.2.Mjerilo neposrednog osnova vrsenja
+6.3.Mjerilo kvalitete obaveze koja se ispunjava
+6.4.Mjerilo vrsioca
+6.5.Mjerilo stepena autoritativnosti
+6.6. Mjerilo rasprostranjenosti
 
 ### II. Upravni postupak
-- Pojam i načela ZUP-a (zakonitost, saslušanje stranke, efikasnost, itd.).
-- Nadležnost.
-- Stranke i zastupanje.
-- Opštenje (podnesci, pozivanje, zapisnik).
-- Rokovi, povraćaj u pređašnje stanje.
-- **Prvostepeni postupak:** Pokretanje, dokazivanje (isprave, svjedoci, vještaci), rješenje, zaključak.
-- **Drugostepeni postupak:** Žalba (pravo, rok, sadržaj), rad organa po žalbi.
-- **Izvršni postupak:** Administrativno izvršenje.
-- **Vanredna pravna sredstva:** Ponavljanje postupka, poništavanje, ukidanje.
-- Posebni upravni postupak socijalne zaštite.
+1. Upravni postupak
+1.1.Pojam, cilj, znacaj i vrste upravnog postupka
+1.2.Zakonsko regulisanje,sadrzaj i primjena pravila opsteg upravnog postupka u pravu Republike
+Stpske
 
-### III. Upravni spor
-- Pojam, vrste, predmet, stranke.
-- Tužba.
-- Postupak i presuda, pravna sredstva, pravna zastita.
+2. Osnovna nacela opsteg upravnog postupka
+2.1.Izridita nacela opsteg upravnog postupka
+2.1.1. Nacelo zakonitosti
+2.1.2. Nacelo zastite prava stranaka i zastite javnog interesa
+2.1.3. Nacelo ucinkovitosti
+2.1.4. Nacelo istine
+2.1.5. Nacelo saslusanja stranke
+2.1.6. Nacelo slobodne ocjene dokaza
+2.1.7. Samostalnost u rjesavanju
+2.1.8. Nacelo dvestepenosti u rjesavanju(pravo na zaibu)
+2.1.9. Nacelo konacnosti i pravomoénosti resenja
+2.1.10. Nacelo ekonominosti postupka
+2.1.11. Pomoc neukoj stranki
+2.1.12. Nacelo o uporabi jezika i pisma
+2.2. Vanredna nacela opsteg upravnog postupka
+2.2.1. Nacelo oficijeinosti
+2.2.2. [straino nacelo
+2.2.3. Naõelo javnosti
+2.2.4. Nacelo pravne sigurnosti
+2.2.5. Nacelo odgovornosti
+2.2.6. Naõelo pismenosti i usmenosti
+2.3.Koncept dobre uprave
+
+3. Nadleznost
+3.1.Pojam i viste nadieznosti
+3.2. Sukob nadleznosti
+3.3. Ovlastena sluzbena osoba i njegovo izuzece
+3.4. Pravna pomoc
+
+4. Ucesnici u upravnom postuplo
+4.1.Stranka
+4.1.1. Pojam i vrste stranaka
+4.1.2. Pretpostavke stranackog djelovanja u postupku
+4.2.Zastupnici u upravnom postupku
+4.2.1. Zakonski zastupnici i privremeni zastupnici
+4.2.2. Zajednicki predstavnik, zajedniki punomoénik i punomonik stranke
+
+5. Opstenje organa i stranaka
+5.1.Podnesci 5.2.Dostavljanje 5.2.1. Pojam, nain, vrijeme i mjesto dostave
+5.2.2. Obavezno lino dostavljanje i posredno dostavijanje
+5:2.3. Posebni slugajevi dostavljanja
+5.3.Pozivanje 5.4.Zapisnik
+5.5. Razgledavanje spisa i obajestavanje o toku postupka
+
+6. Rokovi
+
+7. Povracaj Povracaju predanje stanje
+
+8. Odrzavanje reda u upravnom postupku
+
+9. Troskovi postupka
+
+10. Prvostepeni upravni postupak
+10.1. Pokretanje postupka i spajanje upravnih stari u jedan postupak
+10.2.Dispozitivne stranacke radnje tokom postupka
+10.2.1. Izmjena zahtjeva i odustanak od zahtjeva
+10.2.2. Poravnanje
+10.3. Postupak do donosenja prostepenog rjesenja
+10.3.1. Skraceni postupak
+10.3.2. Posebani spitni postupak
+10.3.3. Prethodno pitanje
+10.3.4. Usmena rasprava
+10.3.5. Dokazivanje
+10.3.5.1. Isprave
+10.3.5.1.1. Pojam i vrste isprava
+10.3.5.1.2. Podnosenje, pribavljanje i izdavanje isprava
+10.3.5.2. Svjedoci ivjestaci
+10.3.5.3. Uvidaj, izjava stranke, tumai i prevodioci
+10.3.5.4. Obezbjedenje dokaza
+10.4.Zavrsetak prostepenog upravnog postupka
+10.4.1. Pojam, oblik i sastavni dijelovi resenja
+10.4.2. Djelimino, dopunsko i privremeno rjesenje
+10.4.3. Rok za izdavanje rjesenja
+10.4.3.1. Neblagovremeno upravno postupanje
+10.4.4. Ispravljanje gresaka u rjesenju
+10.4.5. Zakljucak
+
+11. Drugostepeni upravni postupak
+11.1. Pravna sredstva
+11.2.Redovna pravna sredstva
+11.2.1.1. Osnovna obiljezja zalbe i pravo na zalbu
+11.2.1.2. Nadleinost za rjejavanje po Zalbi
+11.2.1.3 Rok za Zalbu i pravna dejstva zalbe
+11.2.1.4. Sadrina Zalbe i predavanje zalbe
+11.2.2. Rad prostepenog organa po zalbi
+11.2.3. Rad drugostepenog organa po Zalbi
+11.2.4. Zalba kad prostepeno resenje nije donijeto
+11.2.5. Rok za donosenje i dostavljanje drugustepenog rjesenja
+
+12. Upravni izvrini postupak
+12.1.Pojam, uslovi, nain i vrijem eprovodenja upravnog izvrsenja
+12.2.Oblici provodenja upravnog izursenja
+12.3.0dlaganje i obustava upravnog izersenja
+12.4. Izursenje rad iosiguranja i privremeni zakljucak o osiguranju
+12.5. Zalba i zahtjev za protiv izersenje u upravnom izvrinom postupku
+
+13. Izvanredna pravna sredstva
+I3.1. Ponavijanje postupka
+13.2. Mijenjanje i ponistavanje resenja u vezi s upravnim sporom
+13.3. Zahtjev za zastitu zakonitosti
+13.4. Ponistavanje i ukidanje rjesenja po pravu nadzora
+13.5. Ukidanje i mijenjanje pravosnaznog rjesenja uz pristanak ili po zahtjevu stranke
+13.6. Vanredno ukidanje
+13.7. Oglasavanje rjesenja nistanim
+
+14. Posebni upravni postupak socijalne zastite
 
 ### Literatura
-1. Zoran R. Tomić: *Upravno pravo*.
-2. Mirjana O. Rađenović: *Pravo opšteg upravnog postupka*.
-3. Zakon o opštem upravnom postupku RS.
+1.ZoranR. Tomic, Upravno pravo, Beograd, 2002,str. 40-50,62-65-0,71 - 740,95 - 104,203-
+207,256-264,281-289,223-225,331-495,499-562;
+2.Mirjana O.Radenovió, Pravo opsteg upravnog postupka, BanjaLuka, 2004. godine
+3.Zakon o opstem upravnom postupku, "Sluzbeni glasnikRS", 13/2002
+4.Zakon o socijalnoj zastiti"Sluzbeni glasnikRS" 5 / 93, 15/96 110/03.
+
+### III. Upravni spor
+1. Nastanak i razyoj upravnog spora
+2. Opravni spor u pozitiviom pravu Republike Srpske
+3. Pojam i vrste upravnog spora
+3.1. Pojam upravnog spora
+3.2. Vrste upravnog spora
+4. Predmet upravnog spora
+5. Stranke u upravnom sporu
+6. Sudovi nadiezni za rjesevanje upraynih sporova
+7. Razlozi za vodenje upravnog spora
+8. Tuzba (sadrzaj, dejstvo, rok i predaja) u upravnom sporu
+9. Upravno sudski postupak
+9.1. Prethodni upravnesudski postupak
+9.2. Redovni upravnosudski postupak
+10. Okondanje upravnosudskog postupka (upraynog spora)
+11. Pravna sredstva u upravnom sporu
+11.1. Zalba u upraynom spora
+11.2. Zahtjev za vantedno preispitivanje pravosnazne sudske odiuke
+11.3. Ponavijanje postupka
+12. Obaveznost i izursenje pravosnaznih sudskih presuda iz upravnog spora
+13. Supsidijama pravila postupka u upravnom sporu
+14. Medunarodno i domace (ustavno) regulisanje ljudskih prava i sloboda s posebnim osertom na
+socijalna prava i slobode
+14.1. Pravna zastita ustavom garantovanih sloboda i prava povrijedenih konanim pojedinanim
+aktom
+14.2. Pravna zastita ustavom garantovanih sloboda i prava povrijedenih radnjom sluzbene osobe
+
+### Literatura
+1. Zoran R. Tomic, Upravno pravo, Beograd, 2002, str.499 -$62;
+2. Rajko Kuzmanovic, Ustavno pravo, Banja Luka, 2002. St210 -234;
+3. Zakon o upravnim sporovima, "Narodne novine", 109/05.
 
 ---
 
@@ -1649,11 +2016,45 @@ Posjete zdravstvenim organizacijama (Dom zdravlja, Bolnica, Zavod).
 **Semestar:** VI i VII (2+2)
 
 ### Sadržaj
-1. **Predmet i teorije:** Strukturalne, socijalno-psihološke, biološko-psihološke teorije devijantnosti.
-2. **Fenomenologija:** Tamni broj, agresivnost, suicid, toksikomanije, socijalna izopačenost, recidivizam.
-3. **Etiologija:** Egzogeni faktori (ekonomski, mediji, porodica), Endogeni faktori (biološki, psihološki).
-4. **Ratni zločin:** Markeri, organizatori, izvršioci.
-5. **Funkcija socijalno-patoloških pojava.**
+
+1. PREDMET, KONSTRUKTI, TEORIJE SOCIJALNE PATOLOGIE
+(1) Odredenje sta je predinet socijalne patologie.
+(2) Teorijske orjentacije u socijalnoj patologiji.
+(3) Klasifikacija teorija devijantnosti.
+(4) Strukturalne teorije socijalne patologije.
+(5) Socialno-psiholoske teorije socijalne patologije.
+(6) Biolosko- psiholoske teorije socijaine patologye
+
+2. FENOMENOLOGIJA SOCIALNO-PATOLOSKIH POJAVA (SPP)
+(7) Fenomeniologija SPP, tamni broj SPP
+(8) Fenomenologija SPP agresivnog, suicidalnog tipa.
+(9) Fenomenologija toksikomanija.
+(10) Fenomenologija SPP socijalne izopacenosti
+(11) Fenomenologija recidivizma u svijetu socijalne patologije (kriminalitet,
+suicid, toksikomanije, socijalne izopacenosti)
+
+3. ETIOLOGIJA SOCIJALNO - PATOLO(KIH POJAVA (SPP):
+(11) Klasifikacija pristupa faltorima SPP
+(12) Egzogeni faktori SPP (klasni uslovi Zivota, industrijalizacija, urbanizacija,
+alijenacija, ekonomske krize, bogsatvo, siromastvo, nezaposlenost, literature, film,
+mas medio).
+(13) Endogeni faktori SPP (bioloski, psiholoski, mentalni poremecaji).
+
+4. SOCIALNA PATOLOGIJA I RATNI ZLOCIN
+(14) Glavni markeri ratnog zlocina.
+Organizatori ratnog zlocina.
+Izvisioci ratnog zlocina.
+
+5. ZNACENJE I FUNKCIJA SPP
+Mitovi o SPP
+(18) N o v i j e s t a n o v i s t e o z n a c e n j u , f u n k c i j i S P P u d r u s t v u
+(19) Konstatacije o znacenju, funkeiji SPP u drustvu.
+
+VIEZBE I PRAKSA IZ PREDMETA SOCIALNA PATOLOGIJA
+Vjezbe obuhvataju:
+(1) Upoznavanje metoda koje se koriste u ispitivanju SPP.
+(2) Terenska ispitivanja
+(3) Seminari i radionice na tere socijaine patologije
 
 ### Literatura
 1. B. Milosavljević: *Socijalna patologija*.
@@ -1666,28 +2067,76 @@ Posjete zdravstvenim organizacijama (Dom zdravlja, Bolnica, Zavod).
 **Godina:** IV
 **Semestar:** VII i VIII (3+2)
 
-### Ciljevi
-Razumijevanje procesa u lokalnoj zajednici, primjena sistemskih perspektiva, ovladavanje vještinama koordinacije, organizacije, zastupanja.
+### Opis predmeta
+Socijalni rad u zajednici je najmladi metodoloski pristup socijalnom radu.
+Pociva na ideji gradanske odgovornosti i aktivne participacije u zadovoljavanju linih i
+kolektivnih potreba. U odnosu na tradicionalne pristupe u socijalnom radu u pri plan istice
+menadzerske uloge i jestine socijainih radnika (koordinatorske, organizatorske, informatorske,
+posrednike .)
+
+### Ciljevi predmeta
+ da razumije procese (geografsko - prirodne, ekolosko-socioloske) u lokalnoj zajednici i
+njohov uticaj na karakter i intenzitet socijalnih potreba.
+- Da sa stanovista sistemskih i multikulturalnih perspektiva tumaõi etilogiju ljudskih
+potreba, razumijevajuéi smisao komplementare primjene metodoloskih pristupa u
+socijalnom radu.
+- Da razumije i iskaze sposobnosti praktione primjene koordinatorskih, organizatorskih,
+posrednickih, zastupnickih uloga.
+- Sposobnost primjene metodoloskih instrumenata za identifikaciju potreba gradana u
+Jokalnoj zajednici.
+- Ovladavanje osnovnim prakticnim vjestinama potrebnim za planiranje i zastupanje usluga u zajednici.
+
+### Ishodi ucenja
+Osposobljenost socijalnih radnika za ucinkovit rad sa malolietnim delinkventima u okviru
+svih razina prevencije.
 
 ### Sadržaj
-1. Pojam i tipologija lokalne zajednice.
-2. Teorijski uticaji (ekološki, radikalni, civilno društvo).
-3. Akciona istraživanja.
-4. Istorijska izvorišta.
-5. **Modeli:**
-   - Organizacija zajednice.
-   - Zaštita u zajednici.
-   - Razvoj zajednice.
-   - Socijalno planiranje.
-   - Socijalna akcija.
-6. **Faze rada:** Upoznavanje, procjena, planiranje, akcija, evaluacija.
-7. Animiranje građana, pregovaranje, lobiranje.
-8. Fundraising (prikupljanje sredstava).
-9. Volonterski menadžment, vodjenje slucaja.
+1. sedmica: Pojam lokalne zajednice / tradicionalne, alternativne, multiple perspektive;
+2. sedmica: Konstruktivni elementi lokalne zajednice;
+3. sedmica: Faktori koji utiou na nastanak, razyoj i nestanak lokalnih zajednica;
+4. sedmica: Tipologija lokalnih zajednica (socioloska i admistrativni-teritorijalna, socijalne funkcije lokalne zajednice).
+5. sedmica: Uticaj sistemsko-ekoloskih teorija na nastanak socijalnog rada u zajednici;
+6. sedmica: Uticaj radikalnih, antidiskriminatornih i antipotinjavajuéih teorija na nastanak socijalnog rada u zajednici
+7. sedmica: Koncepcije socijalnog razvoja;
+8. sedmica: Teorije civilnonog drustva i njihov uticaj na socijalni rad u zajednici;
+9. sedmica: Akciona istrazivanja;
+10. sedmica: Predosti i nedostaci teorijsko metodoloskih pristupa u socijalnom radu u zajednici-Kriticki osvit;
+11. sedmica: Teorijsko-praktione kontraverze oko socijalnog rada u zajednici;
+12. sedmica: Odnos socijalnog rada u zajednici sa socijalnim radom sa pojedincem i grupom;
+13. sedmica: Istorijska izvorista socijalnog rada u zajednici;
+14. sedmica: Modeli socijalnog rada u zajednici;
+15. sedmica: Model organizacije zajednice;
+16. sedmica: Model zastite u zajednici;
+17. sedmica: Model razvoja zajednice;
+18. sedmica: Model socijalnog planiranja u zajednici;
+19. sedmica: Model socijalne (politicke) akcije u zajednici;
+20. sedmica: Model edukacije u zajednici;
+21. sedmica: Faze socijalnog rada u zajednici: upoznavanje zajednice, pracenje, procjena i identifikacija potreba i problema;
+22. sedmica: Faze socijalnog rada u zajednici: planiranje, socijalna akcija, evaluacija;
+23. sedmica: Animiranje i povezivanje gradana u procesima procjene, planiranja i izvodenja socijalne akcije;
+24. sedmica: Pregovaranje u socijalnom radu;
+25. sedmica: Lobiranje u socijalnom radu;
+26. sedmica: Informiranje u zajednici, icontakti sa medifima;
+27. sedmica: Osrove fundraising;
+28. sedmica: Volonterski manadzment;
+29. sedmica: Vodenje slucaja;
+30. sedmica: Upravijanje sistemom;
 
 ### Literatura
-1. Milosavljević, Brkić: *Socijalni rad u zajednici*.
-2. Halmi, A.: *Socijalni rad u lokalnoj zajednici*.
+a) obvezna:
+- Milosavijevic M., Brkic M. (20109. Socijalni rad u zajednici, Zagreb: Republicki zavod za
+s o c i j a i n u z a s t i t u , 1 1 - 2 4 5 .
+b) dopunska:
+- Halmi, A. (1989): Socijalni rad u lokalnoj zajednici, Zagreb: Zavod Grada Zagreba za
+socijalni rad, 39-74,83-245.
+- Milosavijevié, M. (1998): Socijalni rad na medi jekova, Beograd: Draganic, 133-154.
+- Brkic, M. (1997): civilno drustvo, nevladine organizacije i socijalni rad. Socijalni rad i
+socijalna politika. Zbornik radova III Beograd: Fakultet politickih nauka, 238-303.
+- Bulinger, H., Novak J. (2004). Mrezni socijalni rad, Banja Luka, Filozofski fakultet, 4-
+- Weil O. M. (2002). Kako graditi savremenu zajednicu u okviru programa socijalnih
+djelatnosti, Beograd: Casopis za teoriju i kritiku socijalnih ideja i prakse, Socijalna
+misao", br. 1-2, 109-142.
+
 
 ---
 
@@ -1696,42 +2145,310 @@ Razumijevanje procesa u lokalnoj zajednici, primjena sistemskih perspektiva, ovl
 **Godina:** IV
 **Semestar:** VII
 
+Predmet Supervizija dio je nastavnog programa edukacije na dodiplomskom studiju za
+socijalne radnike Filozofkog fakulteta, Odsjeka studija za socijalni rad. Predmet se predaje na
+cetvrtoj godini studija, u prom semestru i traje 70 sati
+
 ### Cilj
-Produbljivanje znanja o psihosocijalnom radu, razvoj profesionalnog identiteta, integracija teorije i prakse.
+Cili je predmeta;.
+da doprinese produbljivanju zanja o psihosocijalnom radu i razvoju cjelovite perspektive
+u okviru koje bi se psihosocijaini rad trebao voditi/obavijati;
+- da studenti steknu zanje o metodima u psthosocijalnom radu, o njhovoj upotrebi i
+relevantnosti u razlicitim podrujima, kao sto je rad sa individuom, porodicom i grupom;
+- da razviju sposobnost uocavanja i problematizovanja drustvenih, organizacionih i drugih
+predujeta za praktikovanje psihosocijalnog rada;
+- da kod studenata doprinese razyoju profesionalnog identiteta.
 
-### Sadržaj
-- **Teorijski dio:** Analiza stanja, tretmanska relacija, proces promjena, moć i kontrola, etika.
-- **Praktični dio:** Pisanje eseja (opis slučaja iz prakse).
+### Osnovni Sadržaj Predmeta
+Ovaj se predmet sastoji od dva dijela, dije su uporisne tacke: a)
+psihosocijalnog rada i b) praksa socijalnog radnika. teorije i metodi
+(a) Teoretski dio predmeta fokusiran je na bitne teorije u psihosocijalnom radu. U nastavi
+e produbljuju i usporeduju teorije koje su centralne u pshosocijalnom radu: teorij
+ustava 1 komurikacya, pshodinamska teonja i socijalnopsiholoske teorije. Vazno i
 
-### Teme seminara
-- Moć u socijalnom radu.
-- Etika i profesionalni stav.
-- Etnicitet.
-- Gender (rod).
-- Značaj supervizije.
+upoznati nacin na koji se
+psibosocijalnom radu.
+ove teorije mogu integrirati i alternativno koristiti u
+Teme koje ée se obradivati u ovom dijelu predmeta su sijedece:
+analiza i procjena stanja klijenta i njegove Zivotne situacije,
+- tretmanska relacija,
+- proces promena i uvjeti za promjene,- strategije i intervencije - podrska i promjena, .
+- moc i kontrola - dobrovolinost i prisila,
+- etika i profesionalni stav, gender i etnicitet - njihov zacaj u psihosocijalnom
+radu i
+- znacaj supervizije u profesionalnom psihosocijahnom radu.
+(b) Drugi dio predmeta fokusiran je na nain koristenja teoretskih zanja i njihova
+koristenja, te integraciju
+Iskustva teorge i prakse u ovin profesije socijalnog radnika.
+iz prakse podloga su za treniranje studenata kako da problematizuju,
+analiziraju, kriticki se postavljaju i refektiraju teorije, metode i uslove koji "stvaraju"
+klijente. Isto tako u fokusu je osobno profesionalno djelovanje, stav i vrednovanje te
+kako linost profesionalca utjece na rad sa klijentom. Posebna se panja poklanja
+razvoju razumijevanja studenta
+procesa stvaranja odnosa u psihosocijalnom radu sa
+klijentom.
+Forma predavanja
+Predavanja su koncipirana tako da osnaze i podize aktivno traverje zanja i razvaj kritickog
+misjenja studenata. Znanje se stjece na predavanjima, u seminarima, putem treniranja
+jestina uz podrsku profesora i asistenata, pri cemu se koriste iskustva studenata iz prakse.
+Surha predavanja je:
+da studenti aktivno prikupljaju i traze znanje,
+- da se kod njih razvije kriticko razmistjanje i stav,
+- da se poveca njihova samosvijest i identifikacija s profesijom socijalnog radnika i
+- da treniraju kako ée zuanje prenijeti drugima.
+Cili predmeta, sadraj i forma predavanja nalau aktivno usestvovanje studenata na ispitu.
+Ispit je u formi usmenog i pismenog rjesavanja problema, kako u grupi tako i individualno.
+Irazi se obavezno prisustvo na seminarima i u grupnoj disksija slucaja. Ocjena je od 5 do 10.
+Studenti koji ne poloze ispit u prom roku imaju moguénost ponoviti ispit.
+Evaluacija Evaluacijom se procienuje sura predmeta, sadriaj, forma predavanja, ispit i literatura te i
+prijedlog relevantnih promjena. Evaluacija se obavija nakon zavrsenog ispita.
 
 ### Literatura
-1. Lilja Cajvert: *Kreativni prostor terapeuta*.
-2. Malcolm Payne: *Moderne teorije socijalnog rada*.
-3. Sven Hessle: *Od individue do interakcije*.
+Lilja Cajvert, Kreatini prostor terapeuta, IP Svetlost, Sarajevo (2001);
+Sven Hessle, Od individue do interalcije (Razgovor sa B), Filofski fakultet, Banja Luka
+(2003);
+Malcolm Payne, Moderne teorije socijalnog rada, ), Filofski fakultet, Banja Luka (2001),
+Lilja Cajvert, Kreativni prostor terapeuta, Mentalno zdravlje u zajednici, casopis, Vol 2 N° 4,
+str. 18 - 20, Sarajevo 2001;
+Manna Ajdukovic & Lilja Cajvert, The Development of Social Work Supervision in Countries
+in Translation: Reflections from Croatia a n d Bosnia - Herzegovina, Social Work in Europe,
+Vol 10 N° 2, str. 1 - 22, London (2003);
+Darja Zavirsek, Disabilitz as a gender taboo, Women Participating in Global Change, str. 117
+- 130, University of New South Wals, Australa (1998);
+Daija Zavirsek, Womez, Mental Health and the State, Feminism in Central and Eastern
+European Countries, str. 23 - 40 (1994);
+Lisbeth Johnsson, Supervision in Sweden, str. 1 - 12, (1993);
+Louis Van Kessel, prevod, Supervizija - neophodna doprinos l'aliteri profesionalnog
+postupanja, primjer nizozemskog modela supervizie, Ljetopis Studijskog centra scoijalnog
+rada, str. 59 -72, Zagreb (1999);
+Rebecca T. Davis, prevod, Koristenje untoriteta vlasti imoc u superviaiji socijainog rada,
+isicustva Rumunske, Ljetopis Studijskog centra scoijalnog rada, str. 7 - 87, Zagreb (1999);
+Leila Billquist, Summary, translation, The room, the encounter and the rituals - a study on
+the Social Services Agency, client work and clientship, Rummet, Mözez och Ritualerna, ei
+studie av socialyrn, klientarbetet och klientskapet, str. 1-13, Göterborgs University,
+Insitutionen for socialt arbete;
+Marina Ajdukovié, Boris Hudina i Natasa Jovanovic, Znacenje supervizije a profesionalnom
+razvoju socijatnih vadmika, Ljetopis Studiskog centra scoljalnog rada, str. 179 - 189, Zagreb
+Vino ¿ganec, Supervinta u pinsocialon vadu, Letoris Studiskog contra scojalnoz rada,
+str. 165 - 175, Zagreb (1995);
+Kristina Urbanc, Etila i vrijednost u socijalnom radu, Ljetopis Studijskog centra scoijalnog
+rada, str. 153 - 165, Zagreb (2001);
+Gabi Cacivnovic Vogrinic, Europsii socijali rad: Irada elspertize za 21. stoljece, Ljetopis
+Studijskog centra scoijalnog rada, str. 185 - 195, Zagreb (1995);
+Marina Ajdukovié & Lilja Cajvert, Supervizija psihosocijalnog rada kao specifion oblik
+podrsie i pomoci socijalnim radnicima i drugim struönjacima u sustav socijalne shrbi,
+Ljetopis Studijskog centra scoijalnog rada, str. 195 - 211, Zagreb (1995) i
+Rodeks eticinh nacela u socijinoj zastiti Republile Slovenije, prijevod, Ljetopis Studijskog
+centra scoijalnog rada, str. 217 - 223, Zagreb (1995).
 
 ---
+
+## Samostalni rad u obliku eseja
+Dobro dosli na cetvrtu godinu, u sedi semestar.
+Predmet Supervizija predaje se u jedom semestru i sastoji se od d a dijela:
+2 Erinajenjene sorije obitu preslavania i sercinara i
+eseja koji predstavija opis jednog suaja i teoretske primjene steenog znanja.
+
+### OPIS SLUCAJA IZ PRAKSE
+Za vrijeme prakse svaki je student vodio dnevnik i pratio rad sa jednim klijentom, porodicom
+ili grupom. Taj devnik je podioga za pisanje eseja na predmetu Supervizija.
+
+Na ovom predmetu svaki student individualno pise jedan esej opsega 7 do 10 stranica. U
+eseju on opisuje soj rad sa klijentom i analizira ga primjenjujudi teorije i metode
+psihosocijalnog rada.
+
+Svrha je eseja integrirati teoretska zanja steena na predavanjima sa vlastitim iskustvima iz
+prakse psihosocijalnog rada, te rasvijetliti udio soje linosti ty. vlastitu ulogu u
+psihosocijalnom radu.
+
+Svaki ce se esej raspraviti na seminar u grupi od 6 do 9 studenata. U diskusiji sa gropom i u
+skladu's dogovorom neke situacije iz prakse mogu se simulirati kroz igru vloga
+
+Osnovu za pisanje eseja cini dnevnik o praksi, procesni referat koji se vodi tokom prakse,
+materijal sa supervizije, strini sastanci, radne koferencije itd. Bitno je da student koristi
+soje refleksije koje su mu se javijale za vnjeme obavijanja prakse.
+
+Za teoretsku analizu slucaja koriste se teorije i metodi supervizije i psihosocijalnog rada
+sadrzani u literaturi, zatim predavanja i seminari, znanja stecena tokom izicavanja ovog
+predeta, kao i na osnovi teorije iz literature sa kojom se student susteo u drugim
+predmetima.
+Isto tako,
+moguée se koristiti iskustvom kojeg je student stekao u praksi.
+Vaino je precizno koristiti teoretske pojmove ima i jasno navesti koristene reference.
+
+Podatke prilkom opisivanja slucaja iz praise treba prezentirati tako da nije moguée
+prepoznati o kojem se klijentu radi. Naime, bitno je zastititi identitet klijenta.
+
+Esej se obraduje u grupi, raspravija sa svim lanovima grupe i profesorom. Nakon obrade
+eseja svaki student dobija natrag soj pisani rad. Svali clan grupe dita sve radove koje su
+priredili drugi clanovi grupe i priprema se za teoretsku diskusiju.
+
+Pisanje eseja mose se initi teskim onome ko nema iskustvo u radu sa klijentom. Uvjerena
+sam da se o u nastavku ovog teksta o postavijenim pitanjima moze raspravijati bez obzira na
+iskustvo u radu sa klijentom.
+
+Vazno je imati u vidu koje zanje studenti imaju, a koje nemaju prikikom analize slugaja.
+Ako neki podaci nedostaju, treba razmishiti na koji bi nain oni utjecali na rad, odnosno
+kontakt sa klijentom. Svaki esej se raspravlja sat i pol vremen. Tom prilikom nece se
+ocjenjivati kvalitet rada sa klijentom niti procjenjivati sposobnost i jestine studenta. Ono
+sto je u fokusu rasprave o eseju je sposobnost reflektiranja i teoretskog rasvjetljavanja
+psihosocijalnog rada sa klijentom.
+Esej treba predati Lilji Cajvert 26, januara 2004.god. Isto tako bitno je da svi clanovi gripe
+dobiju i procitaju sve radove grupe do ispita u februan.
+PITANJA
+1. U uvodu eseja ukratko treba navesti informacije o radnom mjestu, profesionalnoj
+ulozi i nacinu na koji je klijent postao predmet interesa. Treba objasniti kako se
+razvijao rad sa klijentom. (Zahvaljujué tome onaj ko cita esej dobiva cielovit uvid u
+situaciju idijenta i u rad studenta sa klijentom).
+2. Treba opisati socijalni kontekst i sistem u kojem se klijent nalazi. Isto tako, treba
+navesti ko je bio bitan za tretman i rad sa klijentom Kako izgleda klijentovo
+psihosocijalno polje?
+3. Ukratko navesti analizu kijentova problerna i zivone situacije imajudi u vidu:
+- aktuelno i zeljeno stanje, prepreke i resurse,
+- hierarhijske nivoe,
+- logicke nivoe,
+proslost i sadasnjost,
+formu problema i
+- klijentovu motivaciju.
+4. Treba objasniti kako su prikupljene informacije o klijentu. Da li je ucinjena analiza
+bila stationa ili dinamina?
+5. Prikazati i uporediti vlastita i klijentova ocekivanja kada su u pitanju forma i sadrzaj
+pomoci.
+6. Opisati tretmansku relaciju:
+isomorine strategije/ oponasanje,
+transfer/kontratransfer,
+simetrija/komplementamost,
+razliciti logicki nivoi relacije,
+podjela odgovornosti: socijalni radnik/klijent i
+separacija/zavrsetak
+7. Opisati okvire za tretmanski rad:
+sto/ko upravija i kako se planira tretmanski rad
+- kako je izgledao dogovor i kako je do njega doslo i
+- koji je zaaj organizacije za planiranje tretmana.
+8. Reflektirati o dokumentaciji slucaja. Sta, kako i za koga se pise
+dokumentacija/dnevnik klijenta?
+9. Koji se tip promjene trazi od klijenta u njegovoj ivotnoj situaciji? Promjene prog
+drugog ili treéeg reda?
+Opisi kako si djelovao da bi postigao ove promjene:
+stav i djelovanje sa aspekta modela u psihosocijalnom radu i
+- isomorfne strategije/ anisomorfne strategije.
+Da li si koristio neke tehnike osjescivanja:
+- pojasjenje, tumacenje, konfrontacija, definice ii neke druge.
+1 0 . I n a k r a j u r e f l e k t i r a j :
+(a) tome sto znaci sama klijentizacija. Koja su procesi bili presudni da klijent u s t a r
+postane klijentom i koji procesi pomas u odrzavanju klijentizacije, tj. da klijent
+ostane klijentom?
+(b) Znacaj supervizije za profesionalni rad socijalnog radnika.
+
+---
+
+Seminari
+Seminari se sastoje od seminara na osnovi literature i seminara sa specificnom temom
+Seminar na osnovi literature isti je za sve grupe. Seminar sa temama priprema se u grupi bez
+profesora i odvija se u formi predavanja uz prisustvo profesora.
+Seminari ce se pripremati i u grupama od po 6 studenata. Svaka grupa bira svoju temu koju
+ée obraditi u parovima. Tema se obraduje na tri naina: a) pretracivanjem literature, b)
+viastitom refleksijom i c) interjuom sa socijalnim radnicima u nekoj od ustanova ili
+organizacija u kojima se prakticira psihosocijalni rad.
+Teme za, seminar su sijedece: moc, gender, etnicitet, etika i zacaj supervizije za profesionalni
+socijalni rad
+Moc u socijalnom radu
+Kako se moze objasniti fenomen modi u socijalnom radu?
+Kako se moze razumjeti i objasniti moc koju socijalni radnik ima u ulozi pomagaõa?
+Na koji nacin moc moze doci do izrazaja u radu sa klijentom?
+Kako se socijalni radnik moze s tim nositi?
+Elika i profesionalni stav u socijalnom radu
+Sto karakterise dobar socijalni rad?
+Koji su zahtjevi u odnosu na profesionalni stav socijalnog radnika?
+Etnicitet
+Koje etnicke grupe klijenata susrece socijalni radnik?
+Da li rad sa razlicitim etnickim grupama trazi specifina zanja?
+Navesti koja su zanja
+neophodna u radu sa razlicitim etnickim grupama, opsta i specificna
+znanja?
+Kako drugi reaguju u sojoj profesionalno ulozi kada susreóu klijente koji pripadaju
+razlictim etickim grupama?
+Napomena: ovdje se radi
+o opazanju i refleksiji, a ne izlaganju drugih diskusiji
+"ogovaranju"
+Gender
+Da li socijalni radnik radi na isti nain sa klijentima muskog i zenskog spola?
+Da li je socijalni radnik sjesno ili nesjesno pod utjecajem gender-a klijenta?
+Kako razgovaras sa klijentima - muskarcima, a lako sa klijentima - Zenama?
+Sto je tipino za Zene, a sto za muskarce?
+Koje predstave imas kada se radi o ¿enama, a koje kada se radi o muskarcima?
+Kako reagiras u konkretnim situacijama?
+Znacaj supervizije za profesionalni socijalni rad
+Koje efekte ima supervizija za rast i razoj profesionaluog stava?
+Koje efekte ima supervizija na osobni rast i razvoj?
+Vanost supervizije u profesionalnom radu socijalnog radnika?
+Efekti supervizije u direktnom radu sa klijentorn?
 
 ## 32. Maloljetnička delinkvencija
 **Profesor:** Prof. dr Aleksandar Milić
 **Godina:** IV
 **Semestar:** VIII (Izborni, 2+1)
 
+### Opis predmeta
+Maloljernicka delinkvencija je nastavni predmet eiji sadrzaji podrazumijevaju
+psihosocijalne aspekte maloljetnicke delinkvencije: Definisanje pojmova poremecaja
+ponasanja djece i maloljetnika; Nauni, drustveni i pravni aspekti; Fenomenologija
+maloljetnicke delinkvencije; Etilologija maloljetnicke delinkvencije; Psihosocijalni profil i
+simptomska slika maloljeinog delinkventa; Emocionalni profil; Motivacija maloljetnog
+delinkventa; Komunikacija sa maloljetnim delinkventom; Nivoi prevencije maloljetnicke
+delinkvencije; Metodologija rada sa maloljetnim delinkventima u okviru interdisciplinarnog
+pristupa sa posebnim osvrtom na ulogu i metodologiju rada sluzbi socijalnog rada; Saradnja
+sluzbi socijalnog rada sa drugim institucijama i Strategije prevencije.
+
+### Nastavni ciljevi i zadaci
+Osnovni ciljevi nastave maloljetnicke delinkvencije su:
+da se studenti upoznaju sa fenomenologijom, epidemiologijom, etiologijom i
+prevencion maloljetnike delinkvencije i sa drustvenom potrebom i zacajem izucavanja ove
+pojave. Steenim nanjima treba da se osposobe da u praksi upjesno opserviraju, prepoznaju i
+razumiju preddelinkventna i delinkventna ponasanja mladih;
+da se osposobe za predikeiju i kontrolu asocijativnog ponasanja djece i
+maloljetnika;
+da se osposobe za prvi i ponovijeni tretman ekscesnog ponasanja djece i
+maloljetnika i permanentno pracenje u cilju efikasnog reagovanja;
+da se osposobe za saradnju sa drugim partnerima druStvene zajednice u strategiji
+prevencije maloljetnicke delinkvencije.
+
+### Ishodi ucenja
+Osposobljenost socijalnih radnika za efikasan rad sa maloljetnim delinkventima u
+okviru svih nivoa prevencije.
+
 ### Sadržaj
-1. Pojam poremećaja ponašanja i delinkvencije.
-2. Naučni, društveni i pravni aspekti.
-3. Fenomenologija i epidemiologija.
-4. Etiologija.
-5. Psihosocijalni profil delinkventa (emocije, motivacija).
-6. Komunikacija sa maloljetnim delinkventom.
-7. Nivoi prevencije.
-8. Metodologija rada socijalnih službi.
-9. Saradnja sa drugim institucijama (policija, sud).
+1. nedjelja: Predmet, ciljevi i zadaci predmeta; Definisanje pojmova poremedenog ponasanja djece i maloljetnika;
+2. nedjelja: Nauni i drustveni aspekti maloljetnicke delinkvencije;
+3. nedjelja: Fenomenologija maloljetnicke delinkvencije;
+4. nedjelja: Epidemiologija maloljetnicke delinkvencije;
+5. nedjelja: Etiologija maloljetnicke delinkvencije
+6. nedjelja: Psihosocijani profil i simptomatska slika maloljetnog delinkventa;
+7. nedjelja: Emocije, njihov zacaj i emocionalni profil maloljetnog delinkventa;
+8. nedjelja: Motivacija maloljetnicke delinkvencije;
+9. nedjelja: Komunikacije-njihov nacaj i primjena u radu sa maloljetnim delinkventima i drugim osobama od znacaja u radu sa maloljetnim delinkventima;
+10. nedjelja: Komunikacije-nastavak;
+11. nedjelja: Nivoi prevencije maloljetnicke delinkvencije;
+12. nedjelja: Nivoi provencije maloljetnicke delinkvencije;
+13. nedjelja: Rad socijalnih sluzbi sa djecom i maloljetnicima poremecenog ponasanja;
+14. edjelja: Rad drugih partnera sa djecom i maloljetnicima;
+15. nedjelja: Saradnja socijalnih sluzbi sa drugim partnerima u okvini strategije prevencije maloljetnicke delinkvencije.
+
+### Nastavne metode
+Opservacija; razgovor; analize-studije slucaja; rad u malim grupama; individualni
+rad; eksplorativni interju; igranje uloga; analiza produkta djelatnosti; deskripcija;
+introspekcija; testiranje; skaliranje i anketiranje.
+11. Druge aktivnosti: Vjezbe
+12. Proveravanje zuanja: aktivnosti; vjezbe; seminarski radovi; pismeni ispiti;
+usmeni ispit
+13. Literatura:
+• Obavezna: Aleksandar Milié: Psihosocijalni aspekti maloljetnicke
+delinkvencije-udzbenik
+• Sira: Mladen Singer i Ljiljana Miksaj-Todorovic: Delinkvencija mladih;
+Z a r k o J a s o v i c : K r i m i n o l o g i j a m a l o l j e t n i c k e d e l i n k v e n c i j e ;
+• Save the children UK: Rad policije sa djecom i miadima;
+• Cedomir Hajdukovié: Prestupnicko ponasanje mladih.
+
 
 ### Literatura
 1. Aleksandar Milić: *Psihosocijalni aspekti maloljetničke delinkvencije*.
@@ -1739,4 +2456,92 @@ Produbljivanje znanja o psihosocijalnom radu, razvoj profesionalnog identiteta, 
 3. Žarko Jašović: *Kriminologija maloljetničke delinkvencije*.
 
 ---
+
+ . Наставни предмет: МАЛОЛЕТНИЧКА ДЕЛИНКВЕНЦИА
+1. Наставни предмет :
+2. Бро часова седмично :
+а) предаваніа..2
+6) вjежби..........1
+бр. часова.45
+3. Година на коо се предмет изучава : IV
+4. Семестар : 8.
+5. Изборни предмет
+6. Малольетничка делинквенциа je пнаставни
+предмет чизи садржази
+подразуми евау психосоциіалне делинквенциіе:
+Дефинисане позмова поремелаза понашава діеце и малолетника ; Научни,
+д р у ж т в е н и и правни аспекти ; Феноменологиа малолетничке делинквенцие ;
+Етилологиза малолетничке делинквенцие; Психосоциални профил и симптомска
+слика малолетног делинквента; Емоционални профил ; Мотивациа малольетног
+делинквента ; Комуникациза са малолетним делинквентом ; Нивои превенцие
+пані в талого
+малолетничке делинквенцие ; Методологиа рада са малолетним делинквентима у
+оквиру интердисциплинартног приступа са посебним освртом
+н а улогу
+и
+методологизу рада служби социзалног рада; Сарадіа служби социзалног рада са
+другим институциіама и Стратегие превенцие.
+7. Наставни цильеви и задаци :
+Основни дилеви наставе малольетничке делинквенцие су :
+- да се студенти упозназу са феноменологиом, епидемиологиіом, етиологиом и
+превенциом малолетничке делинквенцие и са друштвеном потребом и значазем
+изучавана ове пораве. Стеченим знавима треба да се оспособе да у дракси
+успешно опсервиразу, препозназу и разумизу пдеделиквентна и деликвентна
+п о н а ш а н а м л а д а х ,
+- да се оспособе за предикциу и контролу асоциативног понашана деце я
+малольетника;
+- да се оспособе за при и поновльени третман ексцесног понашана діеце и
+малолетника и перманентно прапетье у цильу ефикасвих реагованьа ;
+- да се оспособе за сарадну са другим партнерима друштвене зазеднице у
+стратегии превенцие малольетничке делинквенцие.
+8. Исходи учена :
+Оспособльеност социаіалних радника за ефикасан рада са м а л о л е т н и м
+делинквентима у окару свих нивоа превенциіе.
+
+9. Садржа ; предмета:
+1. недельа: Предмет, цилеви и задаци предмета; Дефинисане позмова поремейеног
+понашата д е ц е и малольетника;
+2. недіельа : Научни и друштвени аспетки малольетничке делинквенцие;
+3. недіельа: Феноменологиіа малольетничке делинквенцие;
+4. недела: Епидемиологиіа малольетничке делинквенцие;
+5.недельа : Етнологиза малольетничке делинквенцие;
+6. недіельа: Психосоциіални профилс и м п т о м а т с к а с л и к а
+м а л ю л ь е т н о г
+делинквента;
+7. недельа:
+Вмоциє,
+кьихов знача;
+е м о ц и о н а л н и профилм а л о л ь с т н о г
+делинквента;
+8. недела: Мотивациа малольетничке делинквения е ;
+9. недіельа : Комуникацие - вихов значаз и приміена у раду са малолетним
+делинквентима и другим особама од значаа у раду са м а л о л е т н и м
+делинкветлима;
+10. недіельа : Комуникацие - паставак;
+11. недіельа : Нивой превенцие малольетничке делинквенцие;
+12. недела: Нивои превендие малольетничке делинквенцие;
+13. неідельа : Рад социзалних служби са децом и малольетницима поремевеног
+понатава;
+14. недела: Рад других партнера са децом и малолетнидима;
+15. недіельа : Сарадна социзалних служби са другим партнерима у оквиру стратегизе
+превенцие малолетничке делинквенциіе.
+10. Наставне методе:
+Опсервациа; разговор;
+анализе - студие случаа; рад у малим групама;
+индивнудални рад; експлоративни интерву; игратье улога; анализа прдукта
+діелатности; дескрициа; интроспекциа, теститране; скалирате и анкетиравье.
+11. Друге активности : Вежбе -
+12. Проверававье
+у с м е н и испит.
+активности ; вежбе ; семинарски радови, писмени испити ;
+13. Литература :
+а ) обавезна : Александар • Милий : Психосоцизални аспекти
+малольетничке
+деликивенцие - уибеник
+б ) шира : Младен Сингер и Лилана Микша - Тодоровий : Делинквенциа младих ;
+Жарко Гашовий : Криминологи;а малолетничке делинквнецие;
+Save the childrea UK : Рад полищие са діецом и младима ;
+Чедомир Хадуковий : Престулничко понашаве младих.
+I. Предметни наставник : проф. др Александар Милий
+Ш . Асистент : Оливера Грбий
 
