@@ -1,0 +1,97 @@
+# CURRICULUM – PART 6
+
+## 17. Social Work with Disabilities and Handicap (Socijalni rad sa osobama sa invaliditetom)
+**Predavači:** Agneta Kindborg, Bodil Eriksson, Kristina Urbanc, Tamara Pribišev Beleslin, Olivera Mastikosa.
+
+### Cilj kolegija
+Glavni cilj kolegija je da studenti razviju društvenu perspektivu o invaliditetu i hendikepu putem:
+- razumijevanja značenja socijalne uključenosti i isključenosti kao strukturnih elemenata društva,
+- razvijanja znanja o socijalnom radu s osobama s invaliditetom na individualnom, institucionalnom, društvenom i kulturnom nivou,
+- razlikovanja socijalnog i individualnog modela,
+- proučavanja životnih uvjeta, društvenog konteksta i potreba za podrškom i uslugama,
+- razvijanja znanja o oblicima skrbi, zakonodavstvu, ideologiji i kulturi,
+- razumijevanja značenja osnaživanja, zagovaranja i antiopresivnog rada,
+- proučavanja socijalnih i psiholoških aspekata različitih invaliditeta.
+
+### Pedagogija
+Kolegij se izvodi kroz predavanja, grupni rad, radionice i individualne i grupne zadatke.
+
+### Ispitivanje znanja
+- Individualni intervju (usmeni i pisani izvještaj)  
+- Grupni rad (usmeni i pisani izvještaji)  
+- Pismeni ispit
+
+### Tematske cjeline
+- Uvod: ciljevi i sadržaj; definicija osoba s invaliditetom  
+- Povijesne perspektive o invaliditetu; socijalni model; interakcionizam  
+- Antiopresivni rad i osnaživanje  
+- Perspektiva životnog toka; Foucault; institucionalizacija  
+- Izvještaji o intervjuima; teškoće u učenju; psihodinamske perspektive  
+- Pravni okviri, komunikacija, mreže, rodna perspektiva, seksualno zlostavljanje  
+- Studijske posjete  
+- Prepreke, resursi i evaluacija
+
+### Literatura
+1. Goffman, E.: *Stigma*  
+2. Oliver, M.: *The Social Model in Context*  
+3. Payne, M.: *Theories of Social Work*  
+4. Foucault, M.: *Madness and Civilization*
+
+---
+
+## 18. Socijalna psihologija
+**Semestar:** V i VI (3+2)
+
+### Sadržaj
+1. Područje proučavanja i definisanje socijalne psihologije  
+2. Razvoj socijalne psihologije i ključne paradigme  
+3. Koncept socijalizacije (primarna i sekundarna)  
+4. Procesi socijalizacije  
+5. Efekti socijalizacije na kognitivne procese, emocije i self  
+6. Efekti socijalizacije na ponašanje  
+7. Socijalna percepcija i atribucija  
+8. Socijalni stavovi  
+9. Socijalne predrasude  
+10. Socijalna interakcija  
+11. Sudbina individue u grupama  
+12. Pojam i vrste socijalnih grupa  
+13. Nestrukturisane grupe (masa, gomila, socijalni pokreti)  
+14. Strukturisane grupe (primarne, sekundarne, formalne itd.)  
+15. Vođstvo u grupama  
+16. Grupno odlučivanje  
+17. Socijalni konflikti  
+18. Nenasilno rješavanje konflikata  
+19. Interakcija polova
+
+### Literatura
+1. B. Milosavljević: *Uvod u socijalnu psihologiju*, *Socijalna psihologija ljudskih grupa*, *Interakcija u porodici*
+
+---
+
+## 19. Socijalni rad sa grupom
+**Profesor:** Prof. dr Branko Čorić
+
+### Opis kursa
+Cilj kursa je sticanje osnovnih znanja i vještina rada sa grupama u socijalnom radu. Analiziraju se različite teorije psihologije grupe, vodstvo i dinamika grupa. Praktični dio uključuje posmatranje i vođenje grupa.
+
+### Ciljevi
+- Poznavanje teorija psihologije grupe  
+- Razumijevanje analitičke grupne teorije  
+- Poznavanje različitih grupnih aktivnosti u socijalnom radu  
+- Ovladavanje metodologijom posmatranja grupa  
+- Ovladavanje osnovama vođenja grupa
+
+### Sadržaj
+- Pregled teorija psihologije grupe  
+- Grupna analitička teorija  
+- Vođenje grupa  
+- Vrste grupnih aktivnosti  
+- Rad sa vulnerabilnim grupama  
+- Metodologija posmatranja grupa
+
+### Literatura
+1. Paine, M. (2002): *Modern Social Work Theory*, Filozofski fakultet BL  
+2. Lindstein, T. (2002): *Group-Analytic Theory*  
+3. Lindstein, I. (2002): *Working with Children of Alcoholics – A Group Approach*  
+4. Ajduković, M. (1997): *Grupni pristup u psihosocijalnom radu*
+

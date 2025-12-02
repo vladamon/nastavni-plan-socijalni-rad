@@ -1,0 +1,249 @@
+## 28. Upravni postupak s osnovama upravnog prava
+**Predavač:** Doc. dr Mirjana Rađenović  
+
+---
+
+### I. Osnove upravnog prava
+
+1. **Pravno-teorijska shvatanja uprave**
+   1. Uprava u formalnom smislu  
+   2. Uprava u materijalnom smislu  
+   3. Uprava u smislu upravnog rada  
+   4. Upravni rad kao državna funkcija i odnos prema drugim državnim funkcijama  
+
+2. **Upravni odnos kao pravni odnos**
+   1. Pojam i obilježja upravnih odnosa  
+   2. Učesnici, nastanak, sadržaj i prestanak upravnih odnosa  
+
+3. **Organi i organizacije javne uprave**
+   1. Centralni i necentralni subjekti upravnog rada  
+   2. Državni i nedržavni subjekti upravnog rada  
+   3. Glavni i ostali subjekti upravnog rada  
+
+4. **Osnovni pravni instrumenti i glavne kategorije upravnog rada**
+   1. Upravni pravni akti (upravni akt)  
+   2. Upravni materijalni akti (upravna radnja)  
+   3. Rješavanje u upravnim stvarima  
+   4. Upravni nadzor  
+   5. Evidencija ličnih stanja i izdavanje javnih isprava (uvjerenja)  
+
+5. **Vrste upravno-pravnih akata**
+   1. Pravno vezani i diskrecioni upravni akti  
+   2. Pozitivni i negativni upravni akti  
+   3. Konstitutivni i deklarativni upravni akti  
+   4. Individualni i generalni upravni akti  
+   5. Prosti i složeni upravni akti  
+   6. Upravni akti doneseni po službenoj dužnosti i upravni akti doneseni na zahtjev stranke, odnosno uz njen pristanak  
+   7. Upravni akti ograničenog i neograničenog trajanja  
+   8. Rješenja i zaključci  
+   9. Strogo formalizovani i blaže formalizovani upravni akti  
+
+6. **Vrste upravno-materijalnih akata**
+   1. Prema pravnom osnovu vršenja  
+   2. Prema neposrednom osnovu vršenja  
+   3. Prema kvalitetu obaveze koja se ispunjava  
+   4. Prema vršiocu  
+   5. Prema stepenu autoritativnosti  
+   6. Prema rasprostranjenosti  
+
+---
+
+### II. Upravni postupak
+
+1. **Pojam, cilj, značaj i vrste upravnog postupka**
+   - Zakonsko regulisanje, sadržaj i primjena pravila općeg upravnog postupka u pravu Republike Srpske  
+
+2. **Osnovna načela općeg upravnog postupka**  
+
+   2.1. Izričita načela:
+   1. Načelo zakonitosti  
+   2. Načelo zaštite prava stranaka i zaštite javnog interesa  
+   3. Načelo učinkovitosti  
+   4. Načelo istine  
+   5. Načelo saslušanja stranke  
+   6. Načelo slobodne ocjene dokaza  
+   7. Samostalnost u rješavanju  
+   8. Načelo dvostepenosti u rješavanju (pravo na žalbu)  
+   9. Načelo konačnosti i pravomoćnosti rješenja  
+   10. Načelo ekonomičnosti postupka  
+   11. Pomoć neukoj stranci  
+   12. Načelo upotrebe jezika i pisma  
+
+   2.2. Vanredna načela:
+   1. Načelo oficijelnosti  
+   2. Načelo stranačke inicijative  
+   3. Načelo javnosti  
+   4. Načelo pravne sigurnosti  
+   5. Načelo odgovornosti  
+   6. Načelo pismenosti i usmenosti  
+
+   2.3. Koncept dobre uprave  
+
+3. **Nadležnost**
+   1. Pojam i vrste nadležnosti  
+   2. Sukob nadležnosti  
+   3. Ovlaštena službena osoba i njeno izuzeće  
+   4. Pravna pomoć  
+
+4. **Učesnici u upravnom postupku**
+   1. Stranka: pojam, vrste, pretpostavke stranačkog djelovanja u postupku  
+   2. Zastupnici u upravnom postupku:  
+      - Zakonski zastupnici i privremeni zastupnici  
+      - Zajednički predstavnik, zajednički punomoćnik i punomoćnik stranke  
+
+5. **Općenje organa i stranaka**
+   1. Podnesci  
+   2. Dostavljanje – pojam, način, vrijeme i mjesto dostave  
+      - Obavezno lično i posredno dostavljanje  
+      - Posebni slučajevi dostavljanja  
+   3. Pozivanje  
+   4. Zapisnik  
+   5. Razgledanje spisa i obavještavanje o toku postupka  
+
+6. **Rokovi**  
+7. **Povraćaj u prijašnje stanje**  
+8. **Održavanje reda u upravnom postupku**  
+9. **Troškovi postupka**  
+
+10. **Prvostepeni upravni postupak**
+    1. Pokretanje postupka i spajanje upravnih stvari u jedan postupak  
+    2. Dispozitivne stranačke radnje tokom postupka:  
+       - Izmjena zahtjeva i odustanak od zahtjeva  
+       - Poravnanje  
+    3. Postupak do donošenja prvostepenog rješenja:  
+       - Skraćeni postupak  
+       - Posebni ispitni postupak  
+       - Prethodno pitanje  
+       - Usmena rasprava  
+       - Dokazivanje  
+         - Isprave: pojam, vrste, podnošenje, pribavljanje i izdavanje isprava  
+         - Svjedoci i vještaci  
+         - Uviđaj, izjava stranke, tumači i prevodioci  
+         - Obezbjeđenje dokaza  
+    4. Završetak prvostepenog upravnog postupka:  
+       - Pojam, oblik i sastavni dijelovi rješenja  
+       - Djelimično, dopunsko i privremeno rješenje  
+       - Rok za izdavanje rješenja; neblagovremeno upravno postupanje  
+       - Ispravljanje grešaka u rješenju  
+       - Zaključak  
+
+11. **Drugostepeni upravni postupak**
+    1. Pravna sredstva  
+    2. Redovna pravna sredstva – žalba:  
+       - Osnovna obilježja žalbe i pravo na žalbu  
+       - Nadležnost za rješavanje po žalbi  
+       - Rok za žalbu i pravna dejstva žalbe  
+       - Sadržaj žalbe i podnošenje žalbe  
+       - Rad prvostepenog organa po žalbi  
+       - Rad drugostepenog organa po žalbi  
+       - Žalba kada prvostepeno rješenje nije doneseno  
+       - Rok za donošenje i dostavljanje drugostepenog rješenja  
+
+12. **Upravni izvršni postupak**
+    1. Pojam, uslovi, način i vrijeme provođenja upravnog izvršenja  
+    2. Oblici provođenja upravnog izvršenja  
+    3. Odlaganje i obustava upravnog izvršenja  
+    4. Izvršenje radi osiguranja i privremeni zaključak o osiguranju  
+    5. Žalba i zahtjev za protivizvršenje u upravnom izvršnom postupku  
+
+13. **Izvanredna pravna sredstva**
+    1. Ponavljanje postupka  
+    2. Mijenjanje i poništavanje rješenja u vezi s upravnim sporom  
+    3. Zahtjev za zaštitu zakonitosti  
+    4. Poništavanje i ukidanje rješenja po pravu nadzora  
+    5. Ukidanje i mijenjanje pravosnažnog rješenja uz pristanak ili na zahtjev stranke  
+    6. Vanredno ukidanje  
+    7. Proglašavanje rješenja ništavim  
+
+14. **Posebni upravni postupak socijalne zaštite**  
+
+#### Literatura (upravni postupak)
+1. Zoran R. Tomić: *Upravno pravo*, Beograd, 2002.  
+2. Mirjana O. Rađenović: *Pravo općeg upravnog postupka*, Banja Luka, 2004.  
+3. Zakon o općem upravnom postupku, „Službeni glasnik RS“, 13/2002.  
+4. Zakon o socijalnoj zaštiti, „Službeni glasnik RS“, 5/93, 15/96, 110/03.  
+
+---
+
+### III. Upravni spor
+
+1. Nastanak i razvoj upravnog spora  
+2. Upravni spor u pozitivnom pravu Republike Srpske  
+3. Pojam i vrste upravnog spora  
+   - Pojam upravnog spora  
+   - Vrste upravnog spora  
+4. Predmet upravnog spora  
+5. Stranke u upravnom sporu  
+6. Sudovi nadležni za rješavanje upravnih sporova  
+7. Razlozi za vođenje upravnog spora  
+8. Tužba u upravnom sporu – sadržaj, dejstvo, rok i predaja  
+9. Upravnosudski postupak:  
+   - Prethodni upravnosudski postupak  
+   - Redovni upravnosudski postupak  
+10. Okončanje upravnosudskog postupka (upravnog spora)  
+11. Pravna sredstva u upravnom sporu:  
+   - Žalba u upravnom sporu  
+   - Zahtjev za vanredno preispitivanje pravosnažne sudske odluke  
+   - Ponavljanje postupka  
+12. Obaveznost i izvršenje pravosnažnih sudskih presuda iz upravnog spora  
+13. Supsidijarna pravila postupka u upravnom sporu  
+14. Međunarodno i domaće (ustavno) regulisanje ljudskih prava i sloboda s posebnim osvrtom na socijalna prava i slobode:  
+   - Pravna zaštita ustavom garantovanih sloboda i prava povrijeđenih konačnim pojedinačnim aktom  
+   - Pravna zaštita ustavom garantovanih sloboda i prava povrijeđenih radnjom službene osobe  
+
+#### Literatura (upravni spor)
+1. Zoran R. Tomić: *Upravno pravo*, Beograd, 2002.  
+2. Rajko Kuzmanović: *Ustavno pravo*, Banja Luka, 2002.  
+3. Zakon o upravnim sporovima, „Narodne novine“, 109/05.  
+
+---
+
+## 29. Socijalna patologija
+**Semestar:** VI i VII (2+2)  
+
+---
+
+### Sadržaj
+
+1. **Predmet, konstrukti i teorije socijalne patologije**
+   1. Određenje predmeta socijalne patologije  
+   2. Teorijske orijentacije u socijalnoj patologiji  
+   3. Klasifikacija teorija devijantnosti  
+   4. Strukturalne teorije socijalne patologije  
+   5. Socijalno-psihološke teorije socijalne patologije  
+   6. Biološko-psihološke teorije socijalne patologije  
+
+2. **Fenomenologija socijalno-patoloških pojava (SPP)**
+   1. Pojam i fenomenologija SPP, „tamni broj“ socijalno-patoloških pojava  
+   2. Fenomenologija SPP agresivnog i suicidalnog tipa  
+   3. Fenomenologija toksikomanije  
+   4. Fenomenologija SPP socijalne izopačenosti  
+   5. Fenomenologija recidivizma u području socijalne patologije (kriminalitet, suicid, toksikomanije, socijalne izopačenosti)  
+
+3. **Etiologija socijalno-patoloških pojava (SPP)**
+   1. Klasifikacija pristupa faktorima SPP  
+   2. Egzogeni faktori SPP (klasni uslovi života, industrijalizacija, urbanizacija, alijenacija, ekonomske krize, bogatstvo, siromaštvo, nezaposlenost, literatura, film, mas-mediji)  
+   3. Endogeni faktori SPP (biološki, psihološki, mentalni poremećaji)  
+
+4. **Socijalna patologija i ratni zločin**
+   1. Glavni markeri ratnog zločina  
+   2. Organizatori ratnog zločina  
+   3. Izvršioci ratnog zločina  
+
+5. **Značenje i funkcija socijalno-patoloških pojava**
+   1. Mitovi o socijalno-patološkim pojavama  
+   2. Novija stanovišta o značenju i funkciji SPP u društvu  
+   3. Zaključne konstatacije o značenju i funkciji SPP u društvu  
+
+---
+
+### Vježbe i praksa iz predmeta Socijalna patologija
+
+Vježbe obuhvataju:
+1. Upoznavanje metoda koje se koriste u ispitivanju socijalno-patoloških pojava  
+2. Terenska istraživanja  
+3. Seminare i radionice iz oblasti socijalne patologije  
+
+### Literatura
+1. B. Milosavljević: *Socijalna patologija*.  
+2. M. Milutinović: *Kriminologija*.  
